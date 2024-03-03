@@ -1,0 +1,454 @@
+---
+created: 2023-12-14
+modified: 2023-12-14
+tags:
+  - list
+---
+## Description
+Exactly as it says, a list of songs I love and want to play and artists I like and want to see live eventually. 
+
+Exported from spotify using [Transfer Playlists Between Music Services | Tune My Music](https://www.tunemymusic.com/transfer/spotify-to-file)
+
+## Song List 
+- Allah-Las - Catamaran
+- The Growlers - Empty Bones
+- Smith Westerns - Weekend
+- Ty Segall - Girlfriend
+- Sons Of Bill - Brand New Paradigm
+- Talking Heads - This Must Be the Place (Naive Melody) - 2005 Remaster
+- Mild High Club - Note to Self
+- The Smiths - Heaven Knows I'm Miserable Now - 2011 Remaster
+- Balue - Eternal Honeymoon
+- Dumbo Gets Mad - Indian Food
+- Swimming Tapes - Cameos
+- Craft Spells - After the Moment
+- Smith Westerns - Weekend
+- Allah-Las - Catamaran
+- Kendrick Lamar - Poetic Justice
+- Francis Lung - A Selfish Man
+- Inner Wave - American Spirits
+- The Kooks - She Moves In Her Own Way
+- Yellowcard - Ocean Avenue
+- Together Pangea - Friend of Nothing - Acoustic
+- Jerry Paper - Nirvana Mañana
+- Hala - Last Class - Demo
+- Early Eyes - Coffee
+- Hot Flash Heat Wave - Make It Right
+- Hot Flash Heat Wave - Hesitation
+- Twin Peaks - Making Breakfast
+- The Licks - RIP
+- Boyscott - Killer Whale
+- The Walters - New Girl (Tom's Song)
+- Plums - Fine Madeline
+- Goth Babe - Swami's
+- BlocBoy JB - Look Alive (feat. Drake)
+- Aminé - REEL IT IN
+- Vince Staples - Norf Norf
+- Last Dinosaurs - Stream
+- Video Age - Dance Square
+- Baseball Gregg - On a Bus
+- Johnny Goth - Demons
+- Rex Orange County - Nothing
+- The Wombats - Kill the Director
+- Craft Spells - Our Park By Night
+- The Growlers - Not The Man
+- Andy Shauf - Quite Like You
+- Boyscott - Nova Scotia 500
+- The Garden - Egg
+- Swim Mountain - Anyone
+- J. Cole - Work Out
+- TV Girl - Anjela
+- Enjoy - I've Wasted So Much Time
+- Kid Bloom - Parents House
+- Beach Fossils - Down the Line
+- Sports - Feels Like Magic
+- Das Kope - L.A.X.
+- Hala - Problems
+- The Polar Boys - Barbados
+- Los Porcos - Do You Wanna Live?
+- No Vacation - Sad Valentine
+- Inner Wave - Bower
+- The Whitest Boy Alive - 1517
+- Clairo - Flaming Hot Cheetos
+- The Drums - Lets Go Surfing
+- Kendrick Lamar - ELEMENT.
+- Joy Again - Kim
+- Inner Wave - Bower
+- DIIV - Bent (Roi's Song)
+- Cosmo Pyke - Chronic Sunshine
+- Mango Lane - Sex
+- Part Time - Hide
+- Paul Cherry - Like Yesterday
+- Beach Fossils - Sugar
+- TV Girl - Lovers Rock
+- Beach Fossils - This Year
+- Post Animal - Lonely Jones
+- Boyscott - Marco Polo
+- Triathalon - Distant
+- Think About Life - Sweet Sixteen
+- The Walters - Goodbye Baby
+- Good Morning - On the Street
+- Fishmans - 忘れちゃうひととき
+- Bummers - 1967
+- Hot Flash Heat Wave - Jacuzzi
+- Los Campesinos! - You! Me! Dancing! - Remastered
+- Tame Impala - Why Won't You Make Up Your Mind?
+- Hot Flash Heat Wave - Bathroom Song
+- 21 Savage - Ghostface Killers (feat. Travis Scott)
+- The Jungle Giants - Anywhere Else
+- Marsandaras (M*A*RS) - Spring Time Blues
+- No Vacation - Beach Bummer
+- The Pesos - Cumdown
+- BOYO - Mantra
+- Jaguar Sun - Again
+- The Smiths - Bigmouth Strikes Again - 2011 Remaster
+- The Smiths - There Is a Light That Never Goes Out - 2011 Remaster
+- The Smiths - How Soon Is Now? - 2011 Remaster
+- Sufjan Stevens - Mystery of Love
+- The Smiths - Bigmouth Strikes Again - 2017 Master
+- Puzzle - What She Might Say to Me
+- Travis Bretzer - The Snooter
+- Worn-Tin - Sensitivity
+- Big Sean - Jump Out The Window
+- Earth, Wind & Fire - September
+- Ariel Pink - Only In My Dreams
+- Alex G - Proud
+- Natural Child - Out in the Country
+- Vundabar - Glass Hand
+- Born Ruffians - Foxes Mate For Life
+- Chaz Bundick Meets The Mattson 2 - JBS
+- Fishing in Japan - Salieri
+- Generationals - Put a Light On
+- Turnover - Sunshine Type
+- Eyedress - Sofia Coppola
+- Rosemary Fairweather - Chemicals
+- Mellow Fellow - Bossa Yeshua
+- Django Reinhardt - Shine
+- Sufjan Stevens - Visions of Gideon
+- Charles Bradley - The World (Is Going Up In Flames)
+- Radiohead - Karma Police
+- Pixies - Where Is My Mind?
+- Pixies - Here Comes Your Man
+- Talking Heads - Burning Down the House
+- MGMT - Kids
+- Empire of the Sun - Walking On A Dream
+- The Human League - Don't You Want Me
+- Corinne Bailey Rae - Put Your Records On
+- Wifisfuneral - Juveniles (feat. YBN Nahmir)
+- Part Time - Virgo's Maze
+- Balue - Man in the Sixties
+- Amy Winehouse - Fuck Me Pumps
+- Deerhunter - Agoraphobia
+- Girls - The Oh So Protective One
+- Dumbo Gets Mad - Misanthropulsar
+- TOPS - She's So Bad
+- The Undercover Dream Lovers - Come Home
+- The Growlers - Too Many Times
+- Sheck Wes - Live Sheck Wes
+- The Temptations - My Girl
+- Part Time - Honey Lips
+- Men I Trust - Lauren
+- Tame Impala - Borderline
+- Deaton Chris Anthony - 1999 She
+- Bedroom - In My Head
+- Mr Twin Sister - Rude Boy
+- JAWNY - Honeypie
+- Triathalon - Courtside
+- Nana Grizol - Window
+- Chet Baker - Born To Be Blue
+- Kool & The Gang - You Don't Have To Change
+- Kevin Krauter - Keep Falling in Love
+- Soft Glas - Perks of Being a Sunflower
+- The Beach Boys - All I Wanna Do - Remastered 2009
+- Sen Morimoto - People Watching
+- Brainstory - Mnemophobia
+- Inner Wave - Mushroom
+- Biche - Le Laboratoire
+- James Burke - Red Light
+- Ice Cream Boy - Ice Cream Boy
+- Soccer Mommy - Your Dog
+- Chastity Belt - Seattle Party
+- Swim Mountain - Wait for Me
+- Ariel Pink - Another Weekend
+- Travis Bretzer - Lady Red
+- Mr Twin Sister - All Around and Away We Go
+- Hoops - 4 U
+- Tennis - In the Morning I'll Be Better
+- Bass Drum of Death - Lose My Mind
+- Vampire Weekend - A-Punk
+- Last Dinosaurs - Eleven
+- Father John Misty - Nancy From Now On
+- Stella Donnelly - Tricks
+- Tame Impala - Patience
+- Andy Shauf - The Magician
+- Grizzly Bear - Two Weeks
+- Coma Cinema - Running Wide Open
+- Her's - What Once Was
+- Her's - Low Beam
+- OGRE YOU ASSHOLE - また明日(Alternate Version)
+- Pish - Memory
+- John Maus - Bennington
+- Mons Vi - Away
+- Hala - Phone Calls
+- Fantasy Guys - Surfin' on a Wave of Juice
+- Inner Wave - Nice One
+- Spissy - Like a Wheel
+- Magroove - B Cool (feat. Melanie Faye)
+- Rambutan Jam Band - Doing What They Taught Us
+- Alex G - Powerful Man
+- James Wyatt Crosby - Deep In Yr Mind
+- Tambourines - Sunny Side
+- The Ivories - Red
+- Rich Brian - Who That Be
+- The Growlers - In Between
+- Andy Shauf - Eyes of Them All
+- Andy Shauf - Martha Sways
+- Flamingosis - Down for the Fifth Time
+- Hibou - Sunder
+- Andy Shauf - To You
+- Ariel Pink - Pink Slime
+- Kendrick Lamar - XXX. FEAT. U2.
+- Maurice Ravel - Ravel: String Quartet, M. 35: II. Assez vif - Très rythmé
+- SALES - Chinese New Year
+- Zack Villere - Cool
+- Men I Trust - Tailwhip
+- Funeral Suits - All Those Friendly People
+- of Montreal - Wraith Pinned to the Mist and Other Games
+- Black Marble - Iron Lung
+- Major Murphy - Step Out
+- Men I Trust - Something in Water
+- Turnover - Super Natural
+- Men I Trust - Sad Organ
+- Gilbert O'Sullivan - Alone Again (Naturally)
+- Fake Laugh - Better For Me
+- Denzel Curry - CAROLMART FEAT. ICE BILLION BERG
+- Ugly God - Leave a Tip (feat. Splash Drexler)
+- Joey Pecoraro - The Sea
+- The Smiths - This Night Has Opened My Eyes - 2011 Remaster
+- The Grinns - Love Is Not an Enterprise
+- Plums - Parking Lots
+- Lupe Fiasco - Superstar (feat. Matthew Santos)
+- Drake - Emotionless
+- Parks, Squares and Alleys - We're Not Just Friends
+- Los Retros - Someone To Spend Time With
+- Plums - Parking Lots
+- Summer Salt - One Last Time
+- Current Joys - Kids
+- Tame Impala - Borderline
+- Twin Peaks - Blue Coupe
+- STRFKR - Rawnald Gregory Erickson the Second
+- King Gizzard & The Lizard Wizard - Sense
+- Vundabar - Alien Blues
+- Stove - Graduate and Congratulate
+- Wabie - Hey Lover!
+- Haley Blais - Small Foreign Faction
+- Vansire - That I Miss You
+- The Beatles - Don't Let Me Down - Remastered 2009
+- Harry Nilsson - Everybody's Talkin' - From "Midnight Cowboy"
+- New Order - Dreams Never End - 2015 Remaster
+- The Doobie Brothers - Listen to the Music
+- Moses Gunn Collective - Shalala
+- Hot Flash Heat Wave - Glo Ride
+- Freddie & The Dreamers - I'm Telling You Now
+- The Beatles - I'm Only Sleeping - Remastered 2009
+- The Psychedelic Furs - Love My Way
+- Pulp - Babies
+- Beirut - Postcards from Italy
+- Alex G - Sarah
+- King Krule - Dum Surfer
+- SALES - Jamz
+- The Symposium - Red River
+- Yeek - Shake
+- Father John Misty - Mr. Tillman
+- Day Wave - Gone
+- Sure Sure - Funky Galileo
+- Hippo Campus - Way It Goes
+- Miracle Musical - Dream Sweet in Sea Major
+- Cool Company - Habit - Blood Cultures Remix
+- Porches - Mood
+- sakura Hz - chill.
+- STRFKR - German Love
+- Johnny Cash - Folsom Prison Blues
+- Steely Dan - Reelin' In The Years
+- Alex G - Mary
+- Unknown Mortal Orchestra - So Good At Being in Trouble
+- Lord Huron - The Ghost on the Shore
+- Ducktails - Killin' the Vibe
+- Ultimate Painting - Ultimate Painting
+- Parquet Courts - Mardi Gras Beads
+- SALES - Pope Is a Rockstar
+- McWeakerton - Gang Green Gang
+- Obongjayar - Message in a Hammer
+- Obongjayar - Carry Come Carry Go
+- Remi Wolf - Sexy Villain
+- Yot Club - YKWIM?
+- Memo Boy - Brian is the Most Beautiful
+- Coco & Clair Clair - Pop Star
+- Alvvays - Dreams Tonite
+- The Inbreds - Any Sense of Time
+- The Blue Jean Committee - Catalina Breeze
+- Joy Division - Decades - 2007 Remaster
+- Sarah Crean - 02:00 AM
+- The Strokes - You Only Live Once
+- Jeanette - El Muchacho de los Ojos Tristes
+- Sea of Lettuce - Leave You Alone
+- Alvvays - Adult Diversion
+- Palehound - Cinnamon
+- Maxine Nightingale - Right Back Where We Started From
+- Drug Cabin - Steely Dad
+- Eiafuawn - No More Like That
+- Strawberry Guy - F Song
+- Good Morning - $10
+- Guided By Voices - Game Of Pricks
+- Blue Smiley - flower
+- Los Retros - Someone To Spend Time With
+- Elvis Costello & The Attractions - Living In Paradise - 2021 Remaster
+- The Garden - California Here We Go
+- Alex G - Come Back
+- Alex G - Know Now
+- Alex G - Runner
+- Ween - Someday
+- Beach Fossils - Down the Line
+- Bob Dylan - Positively 4th Street
+- Phoebe Bridgers - Scott Street
+- Alex G - Change
+- Cocteau Twins - Cherry-coloured Funk
+- Alex G - Forever
+- Harry Nilsson - Everybody's Talkin'
+- Pavement - Harness Your Hopes - B-side
+- Radiohead - Nude
+- Slow Pulp - Falling Apart
+- The Drums - I Don't Know How To Love
+- Beach Fossils - Sleep Apnea
+- juju<3 - Wasted Summers
+- Juice WRLD - All Girls Are The Same
+- Duster - Gold Dust
+- Blood Orange - I Wanna C U
+- Loving - January
+- Cocteau Twins - Iceblink Luck
+- Mac DeMarco - Preoccupied
+- Loving - Forgot Again
+- Lana Del Rey - National Anthem
+- Ariel Pink - Lipstick
+- Sufjan Stevens - Mystery of Love (From the Original Motion Picture “Call Me by Your Name”)
+- Jefferson Airplane - Comin' Back to Me
+- Billy Joel - Vienna
+- Billy Joel - Only the Good Die Young
+- Phoebe Bridgers - Motion Sickness
+- Lily Allen - Smile
+- Phoebe Bridgers - Motion Sickness
+- Jordana - Better in the Dark
+- Animal Collective - Man Of Oil
+- Weezer - Burndt Jamb
+- David Bowie - Moonage Daydream - 2012 Remaster
+- The Isley Brothers - Footsteps in the Dark, Pts. 1 & 2
+- Black Marble - Iron Lung
+- Chastity Belt - Different Now
+- The Buttertones - Matador
+- Beirut - Postcards from Italy
+- Fleetwood Mac - Rhiannon
+- Roy Orbison - Oh, Pretty Woman
+- Love - No Matter What You Do - Stereo Version
+- Count Five - She's Fine
+- Flamin' Groovies - Sometimes
+- Pinegrove - Need 2
+- The Boyboy West Coast - U Was At The Club (Bottoms Up)
+- Sonic Youth - Incinerate
+- salvia palth - i was all over her
+- Cigarettes After Sex - K.
+- Tame Impala - Yes I'm Changing
+- King Krule - Seaforth
+- King Krule - Baby Blue
+- Vundabar - Alien Blues
+- Vundabar - Holy Toledo
+- King Krule - Perfecto Miserable
+- King Krule - Alone, Omen 3
+- King Krule - Cellular
+- Skullcrusher - Two Weeks in December
+- Princess Chelsea - I Love My Boyfriend
+- of Montreal - Wraith Pinned to the Mist and Other Games
+- Cass Elliot - Didn't Want To Have To Do It (Ver. 1)
+- Enjoy - I've Wasted So Much Time
+- Ducktails - In the Swing
+- Connan Mockasin - Caramel
+- The Buttertones - Gravediggin'
+- Tijuana Panthers - Creature
+- The Cleaners From Venus - Summer in a Small Town
+- Fleetwood Mac - Future Games
+- King Gizzard & The Lizard Wizard - Her and I (Slow Jam 2)
+- Ariel Pink - This Night Has Opened My Eyes
+- Cults - Monolithic
+- Mac DeMarco - One More Tear To Cry
+- Triptides - Wake
+- Paul McCartney - Maybe I’m Amazed - 2011 Remaster
+- The Dare - Girls
+- Tanukichan - Don't Give Up
+- Grace Ives - Mirror
+- Car Seat Headrest - Sober to Death
+- Fiona Apple - Paper Bag
+- Mac DeMarco - Passing Out Pieces
+- Los Tecolines - Ahora y siempre
+- Leo Dan - Cómo Te Extraño Mi Amor
+- Lucía Méndez - Margarita
+- Plumtree - Scott Pilgrim
+- Suki Waterhouse - Good Looking
+- Enjoy - Fold Ya' Up Like a Blanket
+- Alex G - Gretel
+- The Specials - Ghost Town
+- David Bowie - Life on Mars? - 2015 Remaster
+- Nirvana - Drain You - Remastered
+- Radiohead - Just
+- The Zombies - Tell Her No
+- Mary Monday - I Gave My Punk Jacket to Rickie
+- Faye Webster - But Not Kiss
+- Sports - Panama
+- Sports - You Are the Right One
+- Sports - Feels Like Magic
+- Kings of Convenience - I'd Rather Dance With You
+- Kings of Convenience - Misread
+- Adult Books - Firewalking
+- Ariel Pink - Kitchen Witch
+- Shannon & The Clams - The Boy
+- Bag Raiders - Shooting Stars
+- Lord Huron - The Night We Met
+- girl in red - we fell in love in october
+- MGMT - Little Dark Age
+- Mitski - Washing Machine Heart
+- Steve Lacy - Bad Habit
+- Mareux - The Perfect Girl
+- Crystal Castles - Kerosene
+- Cigarettes After Sex - Apocalypse
+- Surf Curse - Freaks
+- Slowdive - kisses
+- Hot Chocolate - You Sexy Thing
+- Yvonne Elliman - If I Can't Have You
+- 10cc - I'm Not In Love
+- Chicago - If You Leave Me Now
+- The 5th Dimension - Aquarius/Let The Sunshine In (The Flesh Failures) - From the Musical "Hair"
+- Van McCoy & The Soul City Symphony - The Hustle
+- The Kinks - Waterloo Sunset
+- Nico - These Days
+- Andy Shauf - Quite Like You
+- The Strokes - Soma
+- The Buttertones - Orpheus Under the Influence
+- Peach Pit - Tommy's Party
+- Bob Dylan - Don't Think Twice, It's All Right
+- The Daughters Of Eve - Hey Lover
+- The Little Dippers - Forever - Single Version
+- Tyler, The Creator - LUMBERJACK
+- The Sha La Das - Those Years Are Over
+- Standing On The Corner - Vomets
+- Loving - A Long Slow Little Wave / Citizen, an Activity
+- Connan Mockasin - La Fat Fur
+- Slauson Malone 1 - Smile #2
+- Four Tops - Ain't No Woman (Like The One I've Got)
+- Lana Del Rey - Take Me Home, Country Roads
+- The Marías - Cariño
+- Her's - She Needs Him
+- Her's - Speed Racer
+- The Marías - Spin Me Around
+- The Band - The Weight - Remastered 2000
+- Chuck Berry - Johnny B. Goode
+- Chuck Berry - Roll Over Beethoven
+
+
