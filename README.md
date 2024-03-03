@@ -20,6 +20,7 @@ Here is a current list of my interests (they change frequently):
 **See also**
 - [Resume](3RESOURCES/EMPLOYMENT/Logan%20Alexander%20Resume%2002022024.pdf)
 - [Portfolio](3RESOURCES/EMPLOYMENT/Logan%20Alexander%20Portfolio%2002022024.pdf)
+- [Solved Problems in Physics](3RESOURCES/SOLVED%20PROBLEMS%20IN%20PHYSICS/Solved%20Problems%20in%20Physics.md)
 - [Maps of Content (MOC)](3RESOURCES/DEFINITIONS/Maps%20of%20Content%20(MOC).md)
 - [System-wide Tags](3RESOURCES/STANDARDS/System-wide%20Tags.md)
 - [System Info](2AREAS/PERSONAL%20KNOWLEDGE%20MANAGEMENT/System%20Info.md)
