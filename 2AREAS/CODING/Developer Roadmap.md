@@ -16,7 +16,7 @@ Link to relevant page for goal: [Full Stack Developer Roadmap](https://roadmap.s
 I'll figure this out as I go
 - [HTML](https://www.w3schools.com/html/html_attributes.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
-- [Javascript](https://www.w3schools.com/js/js_intro.asp)
+- [JavaScript](JavaScript)
 
 ### Codebase and Package manager
 - [NPM](https://github.com/workshopper/how-to-npm)

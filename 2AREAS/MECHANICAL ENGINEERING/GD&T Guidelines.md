@@ -82,6 +82,8 @@ Spacer ring
 Goal is to allow perfect alignment of bolt thread major dia with mating threads in chamber. This means that if the bolt is aligned with its mating holes, there must be no intersection of the clearance holes on the spacer ring (usually counterbored bolt pattern).
 
 #### Datum Strategy
+See [Datums | McGraw-Hill Education - Access Engineering (accessengineeringlibrary.com)](https://www.accessengineeringlibrary.com/content/book/9781260453782/chapter/chapter4)
+
 See [GD&T in precision engineering: using slots in precision location | Article | FARO](https://www.faro.com/en/Resource-Library/Article/gd-t-in-precision-engineering-using-slots-in-precision-location) as a reference
 
 ![Pasted image 20240216105052](ATTACHMENTS/Pasted%20image%2020240216105052.png)
