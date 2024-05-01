@@ -42,7 +42,7 @@ Any tag which is in the body of a note should be accompanied with the following 
 - #solved-problem - a solved math or physics problem, used as practice because I like doing these for fun. See [Solved Problems in Physics](../SOLVED%20PROBLEMS%20IN%20PHYSICS/Solved%20Problems%20in%20Physics.md)
 - #song - a musical arrangement or song.
 - #SOP - For more information on SOPs, refer to the [SOP Readme](../../../3RESOURCES/SOPs/SOP%20Readme.md)
-- #standard - a set of guidelines/heuristics to be applied in specific scenarios. for example, [Welded SST gas line design guidelines](../../../5INBOX/New/Welded%20SST%20gas%20line%20design%20guidelines.md). 
+- #standard - a set of guidelines/heuristics to be applied in specific scenarios. for example, [Welded gas line design guidelines](Welded%20gas%20line%20design%20guidelines.md). 
 - #system - frameworks of thought or action which help achieve certain goals, example [LATCH System](../../../2AREAS/ORGANIZATION/LATCH%20System.md), [My Productivity System](../../2AREAS/PRODUCTIVITY/My%20Productivity%20System.md)
 - #system-info - information that is useful to run my [PKM](../../../5INBOX/New/PKM.md) system
 - #tactic - a tactic to be used when you are in need of a fix for something in your life. (i.e. feeling stressed, [For when you feel overwhelmed](../../../3RESOURCES/TACTICS/For%20when%20you%20feel%20overwhelmed.md), low energy, etc..)
