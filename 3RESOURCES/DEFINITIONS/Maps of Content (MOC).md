@@ -1,6 +1,6 @@
 ---
 created: 2023-11-02
-modified: 2023-11-02
+modified: 2024-08-26
 tags:
   - MOC
 aliases:
@@ -22,3 +22,4 @@ In the beginning, [Maps of Content (MOC)](Maps%20of%20Content%20(MOC).md) should
 - [Weekly Updates MOC](../../../3RESOURCES/PERIODIC%20REVIEWS/WEEKLY%20UPDATES/Weekly%20Updates%20MOC.md)
 - [Solved Problems in Physics](../SOLVED%20PROBLEMS%20IN%20PHYSICS/Solved%20Problems%20in%20Physics.md)
 - [Projects](../../../1PROJECTS/Projects.md)
+- [Cleaning MOC](../../../2AREAS/CLEANING/Cleaning%20MOC.md)
