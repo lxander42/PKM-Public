@@ -8,7 +8,7 @@ tags:
 ## Description 
 A [Maps of Content (MOC)](../../3RESOURCES/DEFINITIONS/Maps%20of%20Content%20(MOC).md) to hold Mechanical Engineering related notes, resources, tools, and documents that are frequently referenced. 
 ## Design Guidelines 
-- [Small Tube Weldment Design Guidelines](../../../2AREAS/MECHANICAL%20ENGINEERING/Small%20Tube%20Weldment%20Design%20Guidelines.md)
+- [Small Tube Weldment Design Guidelines](Small%20Tube%20Weldment%20Design%20Guidelines.md)
 - [Generic Design and Drawing Checklist](Generic%20Design%20and%20Drawing%20Checklist.md)
 - [Seals and Sealing Technology BKMs](Seals%20and%20Sealing%20Technology%20BKMs.md)
 - [Shaft Coupling Design Guidelines](Shaft%20Coupling%20Design%20Guidelines.md)
@@ -20,7 +20,7 @@ A [Maps of Content (MOC)](../../3RESOURCES/DEFINITIONS/Maps%20of%20Content%20(MO
 - [standard hardware](../../../5INBOX/New/Lam%20Fastener%20and%20Hardware%20Selection%20Guide.md)
 - [standard fasteners](../../../5INBOX/New/Lam%20Fastener%20and%20Hardware%20Selection%20Guide.md)
 - [Standard Finish Notes](../../../5INBOX/Standard%20Finish%20Notes.md)
-- [Standard Material Notes](../../../2AREAS/MECHANICAL%20ENGINEERING/Standard%20Material%20Notes.md)
+- [Standard Material Notes](Standard%20Material%20Notes.md)
 - [Standard_Drill_Chart816RevisionB](../../../3RESOURCES/ATTACHMENTS/Standard_Drill_Chart816RevisionB.pdf)
 
 ## Drop Zone
