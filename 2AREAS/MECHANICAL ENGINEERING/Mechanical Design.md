@@ -13,7 +13,7 @@ When designing any mechanical system, one should try to maintain [Atomic Mechani
 ## Starting a new design 
 Before doing anything, when starting a new part design without a previous reference, you should reference the experts in the field for a specific part type. Be sure to try and develop frameworks for designing specific part types that can be easily reused in the future. For example: 
 
-- [Drawing Checklist](Drawing%20Checklist.md)
+- [Generic Design and Drawing Checklist](Generic%20Design%20and%20Drawing%20Checklist.md)
 
 ## Notes
 - [Design Thinking to Unlock Creativity and Innovation](../../3RESOURCES/CLASSES/Design%20Thinking%20to%20Unlock%20Creativity%20and%20Innovation.md)

@@ -39,6 +39,7 @@ Any tag which is in the body of a note should be accompanied with the following 
 - #query - a dataview query used for data visulization
 - #quick-note - a quick note added on the fly during the day, to be reviewed at the end of the day and have its tag changed or deleted
 - #readme - a file which explains the contents of a folder. For example, the [SOP Readme](../../../3RESOURCES/SOPs/SOP%20Readme.md) explains what should go in the SOPs folder
+- #recipe - a recipe for a food dish
 - #solved-problem - a solved math or physics problem, used as practice because I like doing these for fun. See [Solved Problems in Physics](../SOLVED%20PROBLEMS%20IN%20PHYSICS/Solved%20Problems%20in%20Physics.md)
 - #song - a musical arrangement or song.
 - #SOP - For more information on SOPs, refer to the [SOP Readme](../../../3RESOURCES/SOPs/SOP%20Readme.md)
