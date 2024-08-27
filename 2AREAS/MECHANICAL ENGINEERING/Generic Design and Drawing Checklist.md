@@ -39,12 +39,12 @@ This is a combination of all part types, remove requirements as needed for diffe
 ## Drawing
 
 - [ ] Title/Description match PLM system
-- [ ] Tolerances adhere to [Block Tolerance Standards](../../5INBOX/Block%20Tolerance%20Standards.md)
+- [ ] Tolerances adhere to [Block Tolerance Standards](Block%20Tolerance%20Standards.md)
 	- ![Block Tolerance Standards](Block%20Tolerance%20Standards.md#^cc7d53)
 - [ ] Non-critical features are defined with +/- or block tolerances
 - [ ] Critical features are defined per [GD&T Guidelines](../../PKM-Public/2AREAS/MECHANICAL%20ENGINEERING/GD&T%20Guidelines.md) which convey design intent
 - [ ] Material notes are per [Standard Material Notes](Standard%20Material%20Notes.md)
-- [ ] Appropriate finish callout per [[Standard Finish Notes]]
+- [ ] Appropriate finish callout per [Standard Finish Notes](Standard%20Finish%20Notes.md)
 - [ ] Part marking note: SILKSCREEN/PAINT/ELECTROCHEMICAL ETCH/LASER ETCH (CHOOSE 1) PART NUMBER AND REVISION WITH .XX" HIGH CHARACTERS IN APPROXIMATE LOCATION SHOWN. 
 - [ ] Clean specification if required
 - [ ] Box notes match appropriate features
