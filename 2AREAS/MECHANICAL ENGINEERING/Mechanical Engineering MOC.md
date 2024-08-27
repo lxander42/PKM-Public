@@ -19,7 +19,7 @@ A [Maps of Content (MOC)](../../3RESOURCES/DEFINITIONS/Maps%20of%20Content%20(MO
 ## Standards
 - [standard hardware](../../../5INBOX/New/Lam%20Fastener%20and%20Hardware%20Selection%20Guide.md)
 - [standard fasteners](../../../5INBOX/New/Lam%20Fastener%20and%20Hardware%20Selection%20Guide.md)
-- [Standard Finish Notes](../../../5INBOX/Standard%20Finish%20Notes.md)
+- [Standard Finish Notes](Standard%20Finish%20Notes.md)
 - [Standard Material Notes](Standard%20Material%20Notes.md)
 - [Standard_Drill_Chart816RevisionB](../../../3RESOURCES/ATTACHMENTS/Standard_Drill_Chart816RevisionB.pdf)
 

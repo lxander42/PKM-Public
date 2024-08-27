@@ -40,7 +40,7 @@ This is a combination of all part types, remove requirements as needed for diffe
 
 - [ ] Title/Description match PLM system
 - [ ] Tolerances adhere to [Block Tolerance Standards](../../5INBOX/Block%20Tolerance%20Standards.md)
-	- ![Block Tolerance Standards](../../../5INBOX/Block%20Tolerance%20Standards.md#^cc7d53)
+	- ![Block Tolerance Standards](Block%20Tolerance%20Standards.md#^cc7d53)
 - [ ] Non-critical features are defined with +/- or block tolerances
 - [ ] Critical features are defined per [GD&T Guidelines](../../PKM-Public/2AREAS/MECHANICAL%20ENGINEERING/GD&T%20Guidelines.md) which convey design intent
 - [ ] Material notes are per [Standard Material Notes](Standard%20Material%20Notes.md)

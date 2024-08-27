@@ -43,8 +43,8 @@ This page is an introduction to tube weldments, designed to point the user to pe
 
 # Drawing Checklist
 - [ ] Title/Description match PLM system
-- [ ] Tolerances adhere to [Block Tolerance Standards](../../../5INBOX/Block%20Tolerance%20Standards.md)
-	- ![Block Tolerance Standards](../../../5INBOX/Block%20Tolerance%20Standards.md#^cc7d53)
+- [ ] Tolerances adhere to [Block Tolerance Standards](Block%20Tolerance%20Standards.md)
+	- ![Block Tolerance Standards](Block%20Tolerance%20Standards.md#^cc7d53)
 - [ ] Non-critical features are defined with +/- or block tolerances
 - [ ] Critical features are defined per [GD&T Guidelines](GD&T%20Guidelines.md) which convey design intent
 - [ ] Material notes are per [Standard Material Notes](Standard%20Material%20Notes.md)
