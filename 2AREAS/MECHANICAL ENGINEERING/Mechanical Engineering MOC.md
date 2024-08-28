@@ -33,3 +33,4 @@ Drop relevant notes here as you make them
 - [Lab Service Request SOP](Lab%20Service%20Request%20SOP.md)
 - [Manufacturing Methods](Manufacturing%20Methods.md)
 - [Suppliers list](Suppliers%20list.md)
+- [CAD Modeling](../../../2AREAS/CAD%20MODELING/CAD%20Modeling.md)
