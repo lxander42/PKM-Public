@@ -19,8 +19,8 @@ This is a combination of all part types, remove requirements as needed for diffe
 - [ ] O-ring grooves have tool entry features and locations identified
 - [ ] Sealing surfaces have appropriate surface finish/coating
 - [ ] Standard tubing sizes used, however, tubing diameter should match welded component diameter
-	- .125" - .028" wall 
-	- .25" - .035" wall\
+	- .125" - .028" wall
+	- .25" - .035" wall
 	- .375" - .035" wall
 	- .5" - .049" wall
 - [ ] Glands of opposing parts to be assembled in CAD with a distance of .02" to fit VCR gasket. Assess distance if using other gasketing material
