@@ -15,6 +15,7 @@ Any tag which is in the body of a note should be accompanied with the following 
 
 ## Description tags
 - #band - a musical group. 
+- #BKM - best known method for doing something. Should consider wrapping up a bunch of tags into this one eventually.
 - #book - a book
 - #checklist - a list of items that is checked off periodically. (i.e. shopping list, wishlist, [Food Stocking List](../../../2AREAS/NUTRITION/Food%20Stocking%20List.md))
 - #class-notes - notes on classes I have taken.

@@ -10,7 +10,7 @@ modified: 2023-10-20
 
 ## Scope
 ### Resources
-- [[Project Scoping BKM]]
+- [[../../../3RESOURCES/PROJECT MANAGEMENT/Project Scoping]]
 - [[Project Scoping SmartForm]]
 
 ## Notes
