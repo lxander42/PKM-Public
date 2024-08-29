@@ -7,7 +7,7 @@ cssclasses:
   - page-blueprint
   - recolor-images
 ---
-![](ATTACHMENTS/Pasted%20image%2020240829082848.png)
+![](ATTACHMENTS/Pasted%20image%2020240829082848.png|600)
 ![](ATTACHMENTS/Pasted%20image%2020240829083344.png)
 ![](ATTACHMENTS/Pasted%20image%2020240829083609.png)
 ![](ATTACHMENTS/Pasted%20image%2020240829083812.png)
