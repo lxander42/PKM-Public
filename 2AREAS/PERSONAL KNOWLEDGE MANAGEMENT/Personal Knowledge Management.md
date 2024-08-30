@@ -14,12 +14,12 @@ modified: 2024-08-30
 [Build your personal knowledge management system: the ultimate guide (elizabethbutlermd.com)](https://elizabethbutlermd.com/personal-knowledge-management/)
 
 
-> [!PROJECT] Projects
+> [!important] Projects
 > Current Ongoing Projects
 > - [Articulated Tube TV mounting Arm](../../1PROJECTS/Articulated%20TV%20mounting%20Arm%20Drawings.md)
 
 
-> [!ABSTRACT] AREAS
+> [!tip] AREAS
 > **ONGOING AREAS OF FOCUS**
 > - [CAD MODELING](../../../2AREAS/CAD%20MODELING/CAD%20Modeling.md)
 > - [CLEANING](../../../2AREAS/CLEANING/Cleaning%20MOC.md)
@@ -29,5 +29,5 @@ modified: 2024-08-30
 > - [MY VALUES](../../../2AREAS/PERSONAL%20DEVELOPMENT/Values.md)
 
 
-> [!EXAMPLE] RESOURCES
+> [!note] RESOURCES
 > Contents
