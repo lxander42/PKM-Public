@@ -23,3 +23,4 @@ In the beginning, [Maps of Content (MOC)](Maps%20of%20Content%20(MOC).md) should
 - [Solved Problems in Physics](../SOLVED%20PROBLEMS%20IN%20PHYSICS/Solved%20Problems%20in%20Physics.md)
 - [Projects](../../../1PROJECTS/Projects.md)
 - [Cleaning MOC](../../../2AREAS/CLEANING/Cleaning%20MOC.md)
+- [Cooking](../../../3RESOURCES/COOKING/Cooking.md)

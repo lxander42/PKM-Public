@@ -2,10 +2,12 @@
 created: 2023-10-20
 tags:
   - system-info
-modified: 2023-12-05
+modified: 2024-08-30
 ---
 ## Description 
-This document outlines the proper use of various tags within this [Personal Knowledge Management](../../2AREAS/PERSONAL%20KNOWLEDGE%20MANAGEMENT/Personal%20Knowledge%20Management.md) System
+This document outlines the proper use of various tags within this [Personal Knowledge Management](../../2AREAS/PERSONAL%20KNOWLEDGE%20MANAGEMENT/Personal%20Knowledge%20Management.md) System.
+
+Want to modify this eventually to include elements from [pjeby/tag-wrangler: Rename, merge, toggle, and search tags from the Obsidian tag pane (github.com)](https://github.com/pjeby/tag-wrangler).
 
 ## Rules
 
@@ -17,7 +19,7 @@ Any tag which is in the body of a note should be accompanied with the following 
 - #band - a musical group. 
 - #BKM - best known method for doing something. Should consider wrapping up a bunch of tags into this one eventually.
 - #book - a book
-- #checklist - a list of items that is checked off periodically. (i.e. shopping list, wishlist, [Food Stocking List](../../../2AREAS/NUTRITION/Food%20Stocking%20List.md))
+- #checklist - a list of items that is checked off periodically. (i.e. shopping list, wishlist, [Food Stocking List](../../../3RESOURCES/COOKING/Food%20Stocking%20List.md))
 - #class-notes - notes on classes I have taken.
 - #daily-note - tags assigned to daily notes
 - #definition - the meaning of a word. Often a page which has no other use than to provide the meaning of a linked word. That or an acronym.
@@ -45,6 +47,7 @@ Any tag which is in the body of a note should be accompanied with the following 
 - #song - a musical arrangement or song.
 - #SOP - For more information on SOPs, refer to the [SOP Readme](../../../3RESOURCES/SOPs/SOP%20Readme.md)
 - #standard - a set of guidelines/heuristics to be applied in specific scenarios. for example, [Welded gas line design guidelines](Welded%20gas%20line%20design%20guidelines.md). 
+- #supplier - A supplier used to source parts and components.
 - #system - frameworks of thought or action which help achieve certain goals, example [LATCH System](../../../2AREAS/ORGANIZATION/LATCH%20System.md), [My Productivity System](../../2AREAS/PRODUCTIVITY/My%20Productivity%20System.md)
 - #system-info - information that is useful to run my [PKM](../../../5INBOX/New/PKM.md) system
 - #tactic - a tactic to be used when you are in need of a fix for something in your life. (i.e. feeling stressed, [For when you feel overwhelmed](../../../3RESOURCES/TACTICS/For%20when%20you%20feel%20overwhelmed.md), low energy, etc..)

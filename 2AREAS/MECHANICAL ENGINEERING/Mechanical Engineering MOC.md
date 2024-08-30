@@ -15,6 +15,7 @@ A [Maps of Content (MOC)](../../3RESOURCES/DEFINITIONS/Maps%20of%20Content%20(MO
 - [Manometer selection ](Manometer%20selection%20.md)
 - [GD&T Guidelines](GD&T%20Guidelines.md)
 - [Cable routing SOP](Cable%20routing%20SOP.md)
+- [Bearing Design](../../../2AREAS/MECHANICAL%20ENGINEERING/Bearing%20Design.md)
 
 ## Standards
 - [standard hardware](../../../5INBOX/New/Lam%20Fastener%20and%20Hardware%20Selection%20Guide.md)

@@ -28,7 +28,7 @@ We will go beyond:
 - Implementation 
 	- Make Ideas tangible by prototyping and storytelling 
 
-Look into [Bauhaus](../../../5INBOX/New/Bauhaus.md) school of design
+Look into [Bauhaus](../../../3RESOURCES/INTERIOR%20DESIGN/Bauhaus.md) school of design
 
 Human factors: what's desirable for people 
 organization factors: what's desirable for an organization 
