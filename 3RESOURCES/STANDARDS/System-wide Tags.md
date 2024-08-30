@@ -1,21 +1,24 @@
 ---
+aliases: []
 created: 2023-10-20
-tags:
-  - system-info
 modified: 2024-08-30
+tags: [band, BKM, book, checklist, class-notes, daily-note, definition, design-document, dream, email, evergreen, favorite, framework, handwritten, journal, kit, list, meeting, MOC, part, person, place, project, project-idea, query, quick-note, readme, recipe, seed, solved-problem, song, SOP, sprout, standard, supplier, system, system-info, tactic, tarot, task-notes, template, therapy-notes, thought, tool, trade-journal, tree, trip, weekly-update, winning-trade, yearly-review]
 ---
-## Description 
+
+# Description
+
 This document outlines the proper use of various tags within this [Personal Knowledge Management](../../2AREAS/PERSONAL%20KNOWLEDGE%20MANAGEMENT/Personal%20Knowledge%20Management.md) System.
 
 Want to modify this eventually to include elements from [pjeby/tag-wrangler: Rename, merge, toggle, and search tags from the Obsidian tag pane (github.com)](https://github.com/pjeby/tag-wrangler).
 
-## Rules
+# Rules
 
 All notes should only have 1 description tag, they are akin to categories. They should be contained in the metadata of the note. Status tags define the status of an item. They should be contained in the body of the note. For example, items I want to research later have the "research" tag. this is still a work in progress. 
 
 Any tag which is in the body of a note should be accompanied with the following addendum: (see [System-wide Tags](System-wide%20Tags.md))
 
-## Description tags
+# Description Tags
+
 - #band - a musical group. 
 - #BKM - best known method for doing something. Should consider wrapping up a bunch of tags into this one eventually.
 - #book - a book
@@ -62,9 +65,10 @@ Any tag which is in the body of a note should be accompanied with the following 
 - #weekly-update - an update of what I did for the week at work
 - #winning-trade - a trade that is a winner, useful for looking at what is successful when trading.
 - #yearly-review - a yearly review and focus/goal setting for next year
-## Status tags 
+
+## Status Tags
 
 - #seed - a fleeting idea that I felt the impulse to right down, it has not been though or written about for more than a minute or less. 
 - #sprout - a note that has grown from a seed, it may have a few links to other notes and has a paragraph or two of my own thoughts on what I think this idea is in my own terms and some further areas of study or sections that I would like to flesh out. 
-- #tree  - a further developed idea which is starting to stand on its own. All of the areas that I would like to study on this topic have been outlined with a rough draft of my thoughts on each section. This note is referenced by many other notes and contained in one or more [Maps of Content (MOC)](../DEFINITIONS/Maps%20of%20Content%20(MOC).md). 
+- #tree - a further developed idea which is starting to stand on its own. All of the areas that I would like to study on this topic have been outlined with a rough draft of my thoughts on each section. This note is referenced by many other notes and contained in one or more [Maps of Content (MOC)](../DEFINITIONS/Maps%20of%20Content%20(MOC).md). 
 - #evergreen - a fully independent and long-lasting (evergreen) note which needs no external explanation in which my thoughts are fully fleshed out and reviewed for continuity. Should align with the concept of [Evergreen notes (andymatuschak.org)](andymatuschak.org)) and follow the framework of [atomic notes](https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic).
