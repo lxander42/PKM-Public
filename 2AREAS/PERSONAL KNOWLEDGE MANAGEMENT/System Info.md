@@ -13,3 +13,8 @@ Notes that pertain to how the system runs and how to find information
 - [Personal Knowledge Management](Personal%20Knowledge%20Management.md)
 - [My Productivity System](../PRODUCTIVITY/My%20Productivity%20System.md)
 - [Maps of Content (MOC)](../../3RESOURCES/DEFINITIONS/Maps%20of%20Content%20(MOC).md)
+
+## Routines
+- [Morning Organization](../../../3RESOURCES/SOPs/Morning%20Organization.md)
+- [Daily Shutdown](../../../3RESOURCES/SOPs/Daily%20Shutdown.md)
+- [Weekly Reset](../../../3RESOURCES/SOPs/Weekly%20Reset.md)
