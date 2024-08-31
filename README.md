@@ -18,7 +18,7 @@ I am a Mechanical Engineer in the semiconductor industry with a passion for lear
 - [Biking](3RESOURCES/CYCLING/Biking%20MOC.md)
 - [Coding](2AREAS/CODING/Coding.md)
 - [Music](2AREAS/MUSIC/Music.md)
-- [Mechanical Engineering](2AREAS/MECHANICAL%20ENGINEERING/Mechanical%20Engineering%20MOC.md)
+- [Mechanical Engineering](2AREAS/MECHANICAL%20ENGINEERING/Mechanical%20Engineering.md)
 - [Sailing](2AREAS/SAILING/Sailing.md)
 
 > *A jack of all trades is a master of none, but often times better than a master of one.* 

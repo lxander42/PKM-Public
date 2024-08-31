@@ -15,7 +15,7 @@ In the beginning, [Maps of Content (MOC)](Maps%20of%20Content%20(MOC).md) should
 ## List of MOCs
 - [Backpacking MOC](../../2AREAS/BACKPACKING/Backpacking%20MOC.md)
 - [Biking MOC](../CYCLING/Biking%20MOC.md)
-- [Mechanical Engineering MOC](../../2AREAS/MECHANICAL%20ENGINEERING/Mechanical%20Engineering%20MOC.md)
+- [Mechanical Engineering](../../2AREAS/MECHANICAL%20ENGINEERING/Mechanical%20Engineering.md)
 - [Manufacturing Methods](../../2AREAS/MECHANICAL%20ENGINEERING/Manufacturing%20Methods.md)
 - [Music](../../2AREAS/MUSIC/Music.md)
 - [Coding](../../2AREAS/CODING/Coding.md)
