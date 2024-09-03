@@ -40,4 +40,4 @@ Drop relevant notes here as you make them
 - [Manufacturing Methods](Manufacturing%20Methods.md)
 - [Suppliers list](Suppliers%20list.md)
 - [CAD Modeling](../../../2AREAS/CAD%20MODELING/CAD%20Modeling.md)
-- [Part Numbering Scheme](../../../5INBOX/Part%20Numbering%20Scheme.md)
+- [Part Numbering Scheme](../../../3RESOURCES/BKM/Part%20Numbering%20Scheme.md)
