@@ -853,7 +853,7 @@ import { MatButtonModule } from '@angular/material/button';
 	- Common structural directives
 		- NGIf
 			- `<div *ngIf="selectedDish">...</div>`
-			- remove the div from the [[DOM]] if the value turns out to be false 
+			- remove the div from the [[../../3RESOURCES/DEFINITIONS/DOM]] if the value turns out to be false 
 		- NgFor
 			- `<mat-list-item *ngFor="let dish of dishes">...<mat-list-item>`
 		- NgSwitch

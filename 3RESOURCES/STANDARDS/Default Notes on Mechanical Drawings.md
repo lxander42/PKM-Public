@@ -5,7 +5,7 @@ tags:
   - standards
 ---
 ## Description 
-This is for **personal** use, for default notes on [[Lam Research]] drawings, refer to [[eDMS]]
+This is for **personal** use, for default notes on [[../../../3RESOURCES/COMPANIES/Lam Research]] drawings, refer to [[eDMS]]
 
 ## Notes template
 In [[Autodesk Fusion 360]], there are no box notes, so we must use braces like this: [1]
