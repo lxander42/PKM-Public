@@ -1,8 +1,8 @@
 ---
 aliases: []
 created: 2023-10-20
-modified: 2024-08-30
-tags: [band, BKM, book, checklist, class-notes, daily-note, definition, design-document, dream, email, evergreen, favorite, framework, handwritten, journal, kit, list, meeting, MOC, part, person, place, project, project-idea, query, quick-note, readme, recipe, seed, solved-problem, song, SOP, sprout, standard, supplier, system, system-info, tactic, tarot, task-notes, template, therapy-notes, thought, tool, trade-journal, tree, trip, weekly-update, winning-trade, yearly-review]
+modified: 2024-09-03
+tags: [band, BKM, book, checklist, class-notes, daily-note, definition, design-document, dream, email, evergreen, favorite, framework, handwritten, journal, kit, list, meeting, MOC, part, person, place, project, project-idea, query, quick-note, readme, recipe, research-paper, seed, solved-problem, song, SOP, sprout, standard, supplier, system, system-info, tactic, tarot, task-notes, template, therapy-notes, thought, tool, trade-journal, tree, trip, weekly-update, winning-trade, yearly-review]
 ---
 
 # Description
@@ -46,6 +46,7 @@ Any tag which is in the body of a note should be accompanied with the following 
 - #quick-note - a quick note added on the fly during the day, to be reviewed at the end of the day and have its tag changed or deleted
 - #readme - a file which explains the contents of a folder. For example, the [SOP Readme](../../../3RESOURCES/SOPs/SOP%20Readme.md) explains what should go in the SOPs folder
 - #recipe - a recipe for a food dish
+- #research-paper A research paper
 - #solved-problem - a solved math or physics problem, used as practice because I like doing these for fun. See [Solved Problems in Physics](../SOLVED%20PROBLEMS%20IN%20PHYSICS/Solved%20Problems%20in%20Physics.md)
 - #song - a musical arrangement or song.
 - #SOP - For more information on SOPs, refer to the [SOP Readme](../../../3RESOURCES/SOPs/SOP%20Readme.md)

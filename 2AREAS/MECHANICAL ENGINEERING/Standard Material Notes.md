@@ -67,4 +67,4 @@ Suppliers of general aluminum stock are Kaiser, Alcoa, and Constellium.
 
 # Further Reference
 
-- [[ASTM Standards]]
+- [[../../../3RESOURCES/STANDARDS/ASTM Standards]]

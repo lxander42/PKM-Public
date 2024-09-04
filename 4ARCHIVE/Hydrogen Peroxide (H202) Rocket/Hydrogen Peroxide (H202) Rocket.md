@@ -13,7 +13,7 @@ modified: 2023-10-20
 ## Scope
 ### Resources
 - [Project Scoping](../../../3RESOURCES/PROJECT%20MANAGEMENT/Project%20Scoping.md)
-- [Making H202](../../../5INBOX/New/Direct%20Electrosynthesis%20of%20pure%20aqueous%20H202%20solutions%20up%20to%2020%20percent%20by%20weight%20using%20a%20solid%20electrolyte.md)
+- [Making H202](../../3RESOURCES/RESEARCH%20PAPERS/Direct%20Electrosynthesis%20of%20pure%20aqueous%20H202%20solutions%20up%20to%2020%20percent%20by%20weight%20using%20a%20solid%20electrolyte.md)
 
 ## Notes
 - Make an H202 rocket which is self-regulating 
