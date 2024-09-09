@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2023-12-14
-modified: 2024-09-03
+modified: 2024-09-06
 tags: [MOC]
 ---
 
@@ -15,7 +15,7 @@ tags: [MOC]
 > [!WARNING]
 > Try to get through the ideation phase as quickly as possible, you can refine later
 
-1. Generate song name or make one up (you can change later)
+1. [Generate song name](https://www.chosic.com/song-name-generator-by-genre-and-mood/) or make one up (you can change later)
 2. Lay down a [random](https://www.bing.com/search?pglt=161&q=random+number+generator&cvid=a4e7f9182f8741daa550952d0aa61475&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQNIBCDI4NzFqMGoxqAIAsAIA&FORM=ANNTA1&PC=U531) drum loop from your drum loops folder or find a new one
 3. Record 1 set of guitar chords/lead (optional)
 	- Note chords below
@@ -30,10 +30,11 @@ tags: [MOC]
 
 ## *Phase 3: Development*
 
-1. Add bass, synthesizers, rerecord guitar in your "Starter Songs" until you get a really good sounding mix to develop your lyrics over.
-2. Add new song parts if you feel it is necessary, play around with using [interesting musical concepts](https://www.youtube.com/watch?v=GXxX013s1Vk) to season your idea. 
-3. Develop and hone your lyrics and write them down (See songwriting template)
-4. Record a clean take without effects and keep rerecording parts until you feel it is perfect
+1. Redo the drum loop in your own style to fit the song
+2. Add bass, synthesizers, rerecord guitar in your "Starter Songs" until you get a really good sounding mix to develop your lyrics over.
+3. Add new song parts if you feel it is necessary, play around with using [interesting musical concepts](https://www.youtube.com/watch?v=GXxX013s1Vk) to season your idea. 
+4. Develop and hone your lyrics and write them down (See songwriting template)
+5. Record a clean take without effects and keep rerecording parts until you feel it is perfect
 
 ## *Phase 4: Refinement*
 
