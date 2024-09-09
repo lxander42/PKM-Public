@@ -1,12 +1,14 @@
 ---
 aliases: []
 created: 2024-08-25
-modified: 2024-09-03
+modified: 2024-09-08
 tags: []
 ---
 
-## Descriptio
+# Description
+
  
+
 My personal knowledge management ([PKM](2AREAS/PERSONAL%20KNOWLEDGE%20MANAGEMENT/Personal%20Knowledge%20Management.md)) system. Meant to hold thoughts, ideas, systems, frameworks, and creative endeavors.
 
 These are my thoughts, they are not meant to represent fact in any area of knowledge but I often cite my sources. 
@@ -29,6 +31,8 @@ I am a Mechanical Engineer in the semiconductor industry with a passion for lear
 - [Coding](2AREAS/CODING/Coding.md)
 - [Music](2AREAS/MUSIC/Music.md)
 - [Mechanical Engineering](2AREAS/MECHANICAL%20ENGINEERING/Mechanical%20Engineering.md)
+- [Personal Projects](../1PROJECTS/Projects.md)
+- [[Running]]
 - [Sailing](2AREAS/SAILING/Sailing.md)
 - [Songwriting](2AREAS/MUSIC/Songwriting.md)
 
