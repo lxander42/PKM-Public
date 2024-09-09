@@ -5,7 +5,7 @@ tags:
   - trip
 ---
 ## Description 
-Backpacking trip in Big Sur during spring of 2024 with Matt and [[Michaela Haaser|Michaela]]
+Backpacking trip in Big Sur during spring of 2024 with Matt and [[../../../5INBOX/PEOPLE/Michaela Haaser|Michaela]]
 
 Packing list: [[Backpacking Gear Kit]]
 

@@ -9,7 +9,7 @@ modified: 2023-10-20
 
 ## People
 
-- `Project Manager:` [[Logan Alexander]]
+- `Project Manager:` [[../../../5INBOX/PEOPLE/Logan Alexander]]
 ## Scope
 ### Resources
 - [Project Scoping](../../../3RESOURCES/PROJECT%20MANAGEMENT/Project%20Scoping.md)

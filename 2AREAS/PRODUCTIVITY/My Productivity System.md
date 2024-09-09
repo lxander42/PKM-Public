@@ -134,5 +134,5 @@ Just go through your calendar stress-free, knowing that you have captured everyt
 
 # Experimenting with Mark Forster's productivity systems 
 
-[Mark Forster](../../../2AREAS/RELATIONSHIPS/PEOPLE/Mark%20Forster.md) is a productivity author and has a bunch of productivity systems that I want to try, the reviews for all of them are linked here: [Blog - Get Everything Done (squarespace.com)](http://markforster.squarespace.com/?clickid=z4nzNhVvlxyPWf1znm3PUQIxUkH3LFQYiy-uSQ0&irgwc=1&utm_medium=pp&utm_source=Wildfire%20Systems&utm_campaign=Wildfire%20Systems&channel=pp&subchannel=390418&source=Wildfire%20Systems)
+[Mark Forster](../../../5INBOX/PEOPLE/Mark%20Forster.md) is a productivity author and has a bunch of productivity systems that I want to try, the reviews for all of them are linked here: [Blog - Get Everything Done (squarespace.com)](http://markforster.squarespace.com/?clickid=z4nzNhVvlxyPWf1znm3PUQIxUkH3LFQYiy-uSQ0&irgwc=1&utm_medium=pp&utm_source=Wildfire%20Systems&utm_campaign=Wildfire%20Systems&channel=pp&subchannel=390418&source=Wildfire%20Systems)
 

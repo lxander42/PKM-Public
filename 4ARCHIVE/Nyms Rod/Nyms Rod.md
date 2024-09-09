@@ -15,7 +15,7 @@ This is a project to create a top down RPG game. A 2d action game built in the [
 
 Eos rods prevent enemy spawning in dungeon rooms, once an entire dungeon has been sealed, the external dungeon sprite does an animation and the dungeon is shown as liberated on the map. Until then, you have to place guards outside the dungeon to prevent the spawned enemies from overrunning the territory. Rooms have portals in them that spawn enemies periodically. 
 
-## Story (written by [[Trevor Alexander]])
+## Story (written by [[../../../5INBOX/PEOPLE/Trevor Alexander]])
 
 **Nym’s Rod**
 
