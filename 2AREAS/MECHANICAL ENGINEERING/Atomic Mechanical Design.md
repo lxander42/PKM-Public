@@ -10,7 +10,7 @@ tags:
 I originally had this idea when reading about [atomic design as it pertains to web development](https://bradfrost.com/blog/post/atomic-web-design/). I think there are significant parallels that can be drawn from software development to [Mechanical Design](Mechanical%20Design.md).  Both systems would seek to use [heuristics](heuristics) and [frameworks](frameworks) to guide design decisions.
 
 Below is a graphic that shows how this framework applies to web design. 
-![Pasted image 20231103224234](ATTACHMENTS/Pasted%20image%2020231103224234.png)
+![Pasted image 20231103224234](../../../3RESOURCES/ASSETS/Pasted%20image%2020231103224234.png)
 
 The way I envisioned it, [Atomic Mechanical Design](.md) is a methodology for creating mechanical systems. There are five distinct levels in the hierarchy: 
 
@@ -28,7 +28,7 @@ This system cannot always be applied to everything in a given assembly, there ma
 
 Standardization should apply at every level of the hierarchy with distinct criteria for when the rules can be broken. Since there are no syntax rules enforcing mechanical designers to use specific units of design, great care must be taken in enforcing and living by these rules. This is part of the reason for writing out this system because I have been burned many times by the snags that come with non standard parts. 
 
-In the future I would like to explore the idea of developing a [Mechanical Design Language](ATTACHMENTS/Mechanical%20Design%20Language.md) with built in syntax checking so that mechanical designers may develop mechanical parts in much the same way that software developers develop software. 
+In the future I would like to explore the idea of developing a [Mechanical Design Language](../../3RESOURCES/PUBLIC%20ASSETS/Mechanical%20Design%20Language.md) with built in syntax checking so that mechanical designers may develop mechanical parts in much the same way that software developers develop software. 
 
 
 

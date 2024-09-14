@@ -7,9 +7,9 @@ tags:
 ## By Ticker
 ### SLI
 #### 5 min
-![Pasted image 20231106112752](../../ATTACHMENTS/Pasted%20image%2020231106112752.png)
+![Pasted image 20231106112752](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106112752.png)
 #### 1 min
-![Pasted image 20231106112806](../../ATTACHMENTS/Pasted%20image%2020231106112806.png)
+![Pasted image 20231106112806](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106112806.png)
 
 ## Notes
 - Again, wait for confirmation candle

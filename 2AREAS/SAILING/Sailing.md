@@ -6,6 +6,6 @@ tags:
 ---
 ## More to come!
 
-![](ATTACHMENTS/Pasted%20image%2020240305171444.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240305171444.png)
 
 Currently certified up to [ASA 103](https://asa.com/certifications/)

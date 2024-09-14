@@ -44,49 +44,49 @@ Timeline:
 
 ## Design References
 **Initial Concept **
-![[Pasted image 20231021184346.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231021184346.png]]
 
 What I am thinking for the handle grips: [handle grips | McMaster-Carr](https://www.mcmaster.com/products/handle-grips/cut-to-length-grips/od~1-3-4/)
-![[Pasted image 20231021184543.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231021184543.png]]
 
 For the handle itself, I was thinking of using a Birch rod: [dowel rods | McMaster-Carr](https://www.mcmaster.com/products/dowel-rods/diameter~1-75/diameter~1-3-4/?s=wood+dowel+rods)
-![[Pasted image 20231021184705.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231021184705.png]]
 
 Potentially this for the latching system: [Weather-Resistant Draw Latch, Zinc-Plated-Steel Strike Plate, 14-5/8" Long x 1-7/8" Wide | McMaster-Carr](https://www.mcmaster.com/4015A21/)
 
-![[Pasted image 20231021185342.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231021185342.png]]
 
 Screws I am using to fasten the latch: [Phillips Rounded Head Screws for Sheet Metal, 18-8 Stainless Steel, Number 10 Size, 1/2" Long | McMaster-Carr](https://www.mcmaster.com/92470A242/)
 
-![[Pasted image 20231022084815.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231022084815.png]]
 
 Spacing of movable end 
-![[Pasted image 20231022085155.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231022085155.png]]
 
 Rubber strap measurements
-![[Pasted image 20231022085802.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231022085802.png]]
 
-![[Pasted image 20231022085826.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231022085826.png]]
 
-![[Pasted image 20231022085852.png]]
-![[Pasted image 20231022090804.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231022085852.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231022090804.png]]
 
 
-![[Pasted image 20231022085951.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231022085951.png]]
 
 Milk jug handle grip dimensions 
-![[Pasted image 20231022092238.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231022092238.png]]
 
 Tapping inserts I am using for the wood
 [Zinc Alloy Tapping Inserts for Softwood, Flanged, M8 x 1.25 mm Thread Size, 20 mm Installed Length | McMaster-Carr](https://www.mcmaster.com/95596A610/)
 
-![[Pasted image 20231022094519.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231022094519.png]]
 
 Washer I am using to attach clasp arm assembly: [Steel Oversized Washer, for M8 Screw Size, 8 mm ID, 16 mm OD | McMaster-Carr](https://www.mcmaster.com/96505A116/)
 
-![[Pasted image 20231022101137.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231022101137.png]]
 
 Screws to secure clasp arm assembly: [Zinc-Plated Alloy Steel Socket Head Screw, M8 x 1.25 mm Thread, 20 mm Long | McMaster-Carr](https://www.mcmaster.com/90128A274/)
 
-![[Pasted image 20231022101403.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20231022101403.png]]
 

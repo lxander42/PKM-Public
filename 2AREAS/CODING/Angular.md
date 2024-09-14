@@ -31,7 +31,7 @@ ng help
 ### Generating and Serving an [[Angular]] Project using [[Angular]] [[../../3RESOURCES/DEFINITIONS/CLI]]
 - At a location in your C: drive, create a folder named *Angular* and move into that folder within [[powershell]]
 	- Should look something like this: 
-	- ![[Pasted image 20210917154857.png]]
+	- ![[../../../3RESOURCES/ASSETS/Pasted image 20210917154857.png]]
 		- **Note: make sure you are using "Run as Administrator"**
 - Then, type the following at the prompt to create a new Angular application named as you desire: 
 ```bash

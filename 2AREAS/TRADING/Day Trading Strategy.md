@@ -46,7 +46,7 @@ DO NOT:
 - Buy micro pullbacks on the 1 min chart
 - Trade after large doge or topping tail
 - Trade on a >50% pullback from previous run up or if it dips below VWAP 
-- ![Pasted image 20231106123232](TRADE%20JOURNALS/ATTACHMENTS/Pasted%20image%2020231106123232.png)
+- ![Pasted image 20231106123232](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106123232.png)
 
 ## Notes
 **How it's going**
@@ -61,6 +61,6 @@ So while a bull flag experiences 2-3 red candles that can pull back to the 9-per
 
 Here is a challenge with flat top breakouts: the entry is at the high of day. It’s a more extended entry compared with a bull flag.
 
-![Pasted image 20231107133146](ATTACHMENTS/Pasted%20image%2020231107133146.png)
+![Pasted image 20231107133146](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231107133146.png)
 
 I may still be able to set my max loss at the low of the pattern, but if the stock cannot hold the breakout level, I typically exit the trade immediately.

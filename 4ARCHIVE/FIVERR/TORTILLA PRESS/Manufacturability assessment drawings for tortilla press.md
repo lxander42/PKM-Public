@@ -20,8 +20,8 @@ Corners in question ^PefzV8vk
 
 
 # Embedded files
-9a68c6a4ff572766dff071b7a8dd0c302db4bfb2: [[ATTACHMENTS/Pasted Image 20231103201351_685.png]]
-92419257add9a39508fdc2728ead9e4e756b8a2a: [[ATTACHMENTS/Pasted Image 20231103204332_036.png]]
+9a68c6a4ff572766dff071b7a8dd0c302db4bfb2: [[../../../3RESOURCES/PUBLIC ASSETS/Pasted Image 20231103201351_685.png]]
+92419257add9a39508fdc2728ead9e4e756b8a2a: [[../../../3RESOURCES/PUBLIC ASSETS/Pasted Image 20231103204332_036.png]]
 
 %%
 # Drawing

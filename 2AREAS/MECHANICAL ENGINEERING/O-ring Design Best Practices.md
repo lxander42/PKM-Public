@@ -21,7 +21,7 @@ The purpose of this standard is to summarize my knowledge of best practices for 
 
 ## Groove Design
 ### Rectangular Groove 
-![Pasted image 20240130110119](ATTACHMENTS/Pasted%20image%2020240130110119.png)
+![Pasted image 20240130110119](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240130110119.png)
 
 - Cross-section is rectangular
 - Use with static seals
@@ -30,14 +30,14 @@ The purpose of this standard is to summarize my knowledge of best practices for 
 - Recommended dimensions below
 
 #### For -200 (0.139" CSD) O-rings operating at 20C-260C
-![Pasted image 20240130110301](ATTACHMENTS/Pasted%20image%2020240130110301.png)
+![Pasted image 20240130110301](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240130110301.png)
 
 #### For -300 (0.210” CSD) O-rings operating at 20C to 260C
-![Pasted image 20240130110332](ATTACHMENTS/Pasted%20image%2020240130110332.png)
+![Pasted image 20240130110332](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240130110332.png)
 
 ### Dovetail Groove
 
-![Pasted image 20240130110525](ATTACHMENTS/Pasted%20image%2020240130110525.png)
+![Pasted image 20240130110525](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240130110525.png)
 
 - Cross-section is dove-tail in shape
 - Use with dynamic seals
@@ -53,11 +53,11 @@ The purpose of this standard is to summarize my knowledge of best practices for 
 
 #### For -200 (0.139" CSD) O-rings operating at 20C-260C
 
-![Pasted image 20240130110744](ATTACHMENTS/Pasted%20image%2020240130110744.png)
+![Pasted image 20240130110744](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240130110744.png)
 
 #### For -300 (0.210” CSD) O-rings operating at 20C to 260C
 
-![Pasted image 20240130110750](ATTACHMENTS/Pasted%20image%2020240130110750.png)
+![Pasted image 20240130110750](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240130110750.png)
 
 ## Groove Design Decision Tree
 

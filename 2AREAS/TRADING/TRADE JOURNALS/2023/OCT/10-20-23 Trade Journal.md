@@ -7,9 +7,9 @@ tags:
 ## By Ticker
 ### HUBC
 #### 5 min
-![Pasted image 20231106114827](../../ATTACHMENTS/Pasted%20image%2020231106114827.png)
+![Pasted image 20231106114827](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106114827.png)
 #### 1 min
-![Pasted image 20231106114834](../../ATTACHMENTS/Pasted%20image%2020231106114834.png)
+![Pasted image 20231106114834](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106114834.png)
 
 ## Notes
 - You need to wait for bull flag confirmation

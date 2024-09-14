@@ -25,29 +25,29 @@ The composite tolerance bolt pattern consists of:
 
 **There are 3 main types of composite tolerances** 
 All examples are reference of the part shown below:
-![Pasted image 20240215162709](ATTACHMENTS/Pasted%20image%2020240215162709.png)
+![Pasted image 20240215162709](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240215162709.png)
 
 #### Composite tolerance with only primary datum in the lower segment
 
-![Pasted image 20240215162113](ATTACHMENTS/Pasted%20image%2020240215162113.png)
+![Pasted image 20240215162113](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240215162113.png)
 
-![Pasted image 20240215161236](ATTACHMENTS/Pasted%20image%2020240215161236.png)
+![Pasted image 20240215161236](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240215161236.png)
 
 The blue zone dots (FRTZF) can translate up-down and left-right and rotate around z within the limits of PLTZF. 
 
 #### Composite tolerance with primary and secondary datums in lower segment
 
-![Pasted image 20240215162525](ATTACHMENTS/Pasted%20image%2020240215162525.png)
+![Pasted image 20240215162525](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240215162525.png)
 
-![Pasted image 20240215162552](ATTACHMENTS/Pasted%20image%2020240215162552.png)
+![Pasted image 20240215162552](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240215162552.png)
 
 The FRTZF can translate up-down and left-right within the limits of PLTZF. 
 
 #### Two single-segmented position tolerancing
 
-![Pasted image 20240216081230](ATTACHMENTS/Pasted%20image%2020240216081230.png)
+![Pasted image 20240216081230](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240216081230.png)
 
-![Pasted image 20240215162807](ATTACHMENTS/Pasted%20image%2020240215162807.png)
+![Pasted image 20240215162807](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240215162807.png)
 
 The blue tolerance zone cylinders can translate left-right within the limits of the yellow tolerance zone cylinders.
 
@@ -86,7 +86,7 @@ See [Datums | McGraw-Hill Education - Access Engineering (accessengineeringlibra
 
 See [GD&T in precision engineering: using slots in precision location | Article | FARO](https://www.faro.com/en/Resource-Library/Article/gd-t-in-precision-engineering-using-slots-in-precision-location) as a reference
 
-![Pasted image 20240216105052](ATTACHMENTS/Pasted%20image%2020240216105052.png)
+![Pasted image 20240216105052](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240216105052.png)
 
 **Primary datum**: sealing surface or surface which mates with a part in the next higher assembly. This datum should have a flatness tolerance of 0.003" if it is a sealing surface, and 0.005" if non-sealing. See [FEL-PRO Head gasket sealing flatness recommendations](https://www.felpro.com/technical/tecblogs/surface-finish.html) Keep the tolerance regardless of feature size until suppliers complain, then re-evaluate. 
 

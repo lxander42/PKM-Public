@@ -7,7 +7,7 @@ tags:
 ## By Ticker
 ### VS
 #### 5 min
-![Pasted image 20231106113312](../../ATTACHMENTS/Pasted%20image%2020231106113312.png)
+![Pasted image 20231106113312](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106113312.png)
 #### 1 min
-![Pasted image 20231106113319](../../ATTACHMENTS/Pasted%20image%2020231106113319.png)
+![Pasted image 20231106113319](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106113319.png)
 ## Notes

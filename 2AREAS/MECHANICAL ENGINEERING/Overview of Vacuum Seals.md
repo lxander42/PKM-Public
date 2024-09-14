@@ -25,8 +25,8 @@ tags:
 - [Seals and Sealing Technology BKMs](Seals%20and%20Sealing%20Technology%20BKMs.md)
 # Seals
 ## VCR
-![](ATTACHMENTS/Pasted%20image%2020240226101504.png)
-![](ATTACHMENTS/Pasted%20image%2020240226101521.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226101504.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226101521.png)
 
 - Nickel gasket is compressed between two stainless steel glands and permanently deformed to form a seal
 - New VCR gasket required every disconnect
@@ -37,13 +37,13 @@ tags:
 > - Use Ultra High Purity fittings for critical gas delivery applications
 - [Lam Preferred Part Numbers](https://sharepoint.lamrc.net/dept/gpg/GPE/prefdparts/SitePages/Home.aspx?RootFolder=%2Fdept%2Fgpg%2FGPE%2Fprefdparts%2FShared%20Documents%2FGas%20Delivery%20Systems&FolderCTID=0x0120005499E06E3C645C4F93394EC5A3083835&View=%7B8C9B6419%2D0496%2D4849%2D869C%2D68)
 
-![](ATTACHMENTS/Pasted%20image%2020240226101716.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226101716.png)
 
-![](ATTACHMENTS/Pasted%20image%2020240226101722.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226101722.png)
 
-![](ATTACHMENTS/Pasted%20image%2020240226101728.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226101728.png)
 ## VCO
-![](ATTACHMENTS/Pasted%20image%2020240226101833.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226101833.png)
 
 - Elastomer seal (o-ring) compressed between two stainless steel tube fittings to form a seal
 - Suppliers frequently apply lubricant to VCO o-rings (not acceptable for Lam systems)
@@ -53,10 +53,10 @@ tags:
 > - Use FFKM elastomers (Chemraz/Kalrez etc.) for high temp and corrosive chemistry applications
 > - Use VCR seals instead of VCO seals whenever possible
 
-![](ATTACHMENTS/Pasted%20image%2020240226102033.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226102033.png)
 ## Ultra-Torr
 
-![](ATTACHMENTS/Pasted%20image%2020240226102139.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226102139.png)
 
 - Elastomer seal (o-ring) compressed between stainless steel tube fitting and OD of tube to form a seal
 - Application: Small diameter stainless steel tube assemblies for gas delivery that require positional compliance in medium to high vacuum systems
@@ -68,7 +68,7 @@ tags:
 
 ## O-ring 
 
-![Pasted image 20240130105456](ATTACHMENTS/Pasted%20image%2020240130105456.png)
+![Pasted image 20240130105456](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240130105456.png)
 
 - Elastomer seal (o-ring) compressed between two rigid parts, one with a groove machined in to hold the seal in place
 - Non-circular cross-sections and non-standard sizes are available
@@ -80,8 +80,8 @@ tags:
 - See [O-ring Design Best Practices](O-ring%20Design%20Best%20Practices.md)
 ## KF (NW,QF) Flanges
 
-![](ATTACHMENTS/Pasted%20image%2020240226102338.png)
-![](ATTACHMENTS/Pasted%20image%2020240226102422.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226102338.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226102422.png)
 
 - Elastomer seal (o-ring) compressed between two metal tube flanges. Centering ring forces alignment of connecting flanges
 - Application: Small to medium diameter stainless steel tube assemblies for gas exhaust (forelines) and chamber ports in medium to high vacuum systems
@@ -89,12 +89,12 @@ tags:
 > [!NOTE] TIPS
 > - Use FFKM elastomers (Chemraz/Kalrez etc.) for high temp and corrosive chemistry applications
 
-![](ATTACHMENTS/Pasted%20image%2020240226102730.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226102730.png)
 
-![](ATTACHMENTS/Pasted%20image%2020240226102735.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226102735.png)
 ## ConFlat (CF)
-![](ATTACHMENTS/Pasted%20image%2020240226102906.png)
-![](ATTACHMENTS/Pasted%20image%2020240226102915.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226102906.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226102915.png)
 
 - Metal gasket is deformed between two stainless steel flanges to form a seal
 - New metal gasket required with every disconnect
@@ -104,10 +104,10 @@ tags:
 > - Use FFKM elastomers (Chemraz/Kalrez etc.) for high temp and corrosive chemistry applications
 > - See Lam Specification [74-119910-00](file://fre_itsupport/doc_man/File2/74-119910-00_K.pdf) for installation and removal procedure
 
-![](ATTACHMENTS/Pasted%20image%2020240226103125.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226103125.png)
 
 ## ISO
-![](ATTACHMENTS/Pasted%20image%2020240226103211.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226103211.png)
 
 - Elastomer seal (o-ring) compressed between two metal tube flanges. Centering ring forces alignment of connecting flanges
 - Application: Stainless Steel tube assemblies for large diameter gas exhaust (forelines) and chamber ports in medium and high vacuum systems
@@ -115,14 +115,14 @@ tags:
 > [!NOTE] TIPS
 > - Use FFKM elastomers (Chemraz/Kalrez etc.) for high temp and corrosive chemistry applications
 
-![](ATTACHMENTS/Pasted%20image%2020240226103305.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226103305.png)
 
-![](ATTACHMENTS/Pasted%20image%2020240226103311.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226103311.png)
 
-![](ATTACHMENTS/Pasted%20image%2020240226103316.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226103316.png)
 ## C-seal
-![](ATTACHMENTS/Pasted%20image%2020240226103334.png)
-![](ATTACHMENTS/Pasted%20image%2020240226103339.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226103334.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226103339.png)
 - Metal seal, held in a retainer, compressed between two metal sealing surfaces.
 - Application: Integrated Gas Systems (gas boxes)
 
@@ -130,8 +130,8 @@ tags:
 ### SAE J1926 – Straight Thread
 - SAE seals are intended for liquid and non-vacuum systems
 - NOT recommended for vacuum applications
-![](ATTACHMENTS/Pasted%20image%2020240226103433.png)
-![](ATTACHMENTS/Pasted%20image%2020240226103438.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226103433.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226103438.png)
 
 ### SAE with NPT Thread
-![](ATTACHMENTS/Pasted%20image%2020240226103452.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240226103452.png)

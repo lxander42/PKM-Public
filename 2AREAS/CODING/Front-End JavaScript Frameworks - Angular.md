@@ -38,7 +38,7 @@ Three Tier Architecture:
 	This makes up a full stack 
 	
 These three tiers are being increasingly encompassed by just Javascript 
-![[ATTACHMENTS/Pasted image 20210910145433.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210910145433.png]]
 
 Angular -> NodeJS -> JSON/MongoDB	
 #### Setting up Your Development Environment: Git and Node
@@ -70,7 +70,7 @@ go to git-scm.com
 
 [[git book]]
 
-![[ATTACHMENTS/Pasted image 20210910151406.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210910151406.png]]
 
 Now to configure global identity parameters
 username and email address
@@ -111,17 +111,17 @@ In this exercise you will learn about how to set up and use an online Git reposi
 
 ###### Set the local Git repository to set its remote origin
 -   At the prompt, type the following to set up your local repository to link to your online Git repository:
-![[ATTACHMENTS/Pasted image 20210915132405.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915132405.png]]
 must be in the repository, for example, mine is C:\Users\AlexaLo\OneDrive - Lam Research\Desktop\git-test
 
 
 ###### Pushing your commits to the online repository 
 -   At the prompt, type the following to push the commits to the online repository:
--   ![[ATTACHMENTS/Pasted image 20210915132714.png]]
+-   ![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915132714.png]]
 
 ###### Cloning an online repository
 -   To clone an online repository to your computer, type the following at the prompt
--   ![[ATTACHMENTS/Pasted image 20210915132851.png]]
+-   ![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915132851.png]]
 ###### Conclusions
 In this exercise you have learned to set up an online Git repository, synchronize your local repository with the remote repository, and clone an online repository.
 ##### Setting up [[Node.js]] and [[NPM]]
@@ -136,7 +136,7 @@ In this exercise, you will learn to set up the Node.js environment, a popular Ja
 ###### Installing Node
 -   To install Node on your machine, go to [https://nodejs.org](https://nodejs.org/) and click on the Download button. Depending on your computer's platform (Windows, MacOS or Linux), the appropriate installation package is downloaded.
 -   As an example, on a Mac, you will see the following web page. Click on the Download button. Follow along the instructions to install Node on your machine. (Note: Now Node gives you the option of installing a mature and dependable LTS version and a more newer stable version. You should to install the LTS version. I will use this version in the course.)
--   ![[ATTACHMENTS/Pasted image 20210915134548.png]]
+-   ![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915134548.png]]
 
 **Note: On Windows machines, you may need to configure your PATH environmental variable in case you forgot to turn on the add to PATH during the installation steps.**
 ###### Verifying the Node Installation
@@ -144,8 +144,8 @@ In this exercise, you will learn to set up the Node.js environment, a popular Ja
     
 -   To ensure that your NodeJS setup is working correctly, type the following at the command prompt to check for the version of **Node** and **NPM**
 
-![[ATTACHMENTS/Pasted image 20210915134721.png]]
-![[ATTACHMENTS/Pasted image 20210915134749.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915134721.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915134749.png]]
 
 ##### Basics of [[Node.js]] and NPM 
 ###### Objectives and Outcomes 
@@ -158,15 +158,15 @@ In this exercise you will learn the basics of Node and NPM. At the end of this e
 
 ###### Initializing package.json
 -   At the command prompt in your **git-test** folder, type
--   ![[ATTACHMENTS/Pasted image 20210915135406.png]]
+-   ![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915135406.png]]
 -   Follow along the prompts and answer the questions as follows: accept the default values for most of the entries, except set the entry point to index.html
 -   This should create a _package.json_ file in your **git-test** folder.
-![[ATTACHMENTS/Pasted image 20210915135739.png]]
+![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915135739.png]]
 
 
 ###### Installing an NPM Module
 -   Install an NPM module, lite-server, that allows you to run a Node.js based development web server and serve up your project files. To do this, type the following at the prompt:
--   ![[ATTACHMENTS/Pasted image 20210915135841.png]]
+-   ![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915135841.png]]
 -   -   You can check out more documentation on lite-server [here](https://github.com/johnpapa/lite-server).
     
 -   Next, open package.json in your editor and modify it as shown below. Note the addition of two lines, line 7 and line 9.
@@ -195,7 +195,7 @@ In this exercise you will learn the basics of Node and NPM. At the end of this e
 
 ```
 -   Next, start the development server by typing the following at the prompt:
--   ![[ATTACHMENTS/Pasted image 20210915140441.png]]
+-   ![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915140441.png]]
 -   This should open your _index.html_ page in your default browser.
     
 -   If you now open the _index.html_ page in an editor and make changes and save, the browser should immediately refresh to reflect the changes.
@@ -203,7 +203,7 @@ In this exercise you will learn the basics of Node and NPM. At the end of this e
 
 ###### Setting up .gitignore
 -   Next, create a file in your project directory named _.gitignore_ (**Note**: the name starts with a period)Then, add the following to the .gitignore file
--   ![[ATTACHMENTS/Pasted image 20210915140653.png]]
+-   ![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915140653.png]]
 -   Then do a git commit and push the changes to the online repository. You will note that the node_modules folder will not be added to the commit, and will not be uploaded to the repository
 ##### Setting up your development Environment: [[Git]] and [[Node.js]]: Additional Resources
 ###### Additional Resources ([[Git]])
@@ -260,29 +260,29 @@ Installing _Angular-CLI_
 From the [[Angular]]-[[../../3RESOURCES/DEFINITIONS/CLI]] documentation we learn that the [[Angular]] [[../../3RESOURCES/DEFINITIONS/CLI]] makes it easy to create an application that already works, right out of the box. It already follows the best practices suggested by the Angular community!
 
 -   To install _angular-cli_ globally, type the following at the prompt:
--   ![[ATTACHMENTS/Pasted image 20210915154545.png]]
+-   ![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915154545.png]]
 
 Use _sudo_ on a Mac and Linux
 
 -   This will make the command line tool for creating Angular applications. To learn more about the various commands that this CLI provides, type at the prompt:
--   ![[ATTACHMENTS/Pasted image 20210915154655.png]]
+-   ![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915154655.png]]
 
 
 ###### Generating and Serving an Angular Project using Angular-CLI
 -   At a convenient location on your computer, create a folder named _Angular_ and move into that folder.
     
 -   Then type the following at the prompt to create a new Angular application named _conFusion_:
--   ![[ATTACHMENTS/Pasted image 20210915155645.png]]
+-   ![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915155645.png]]
 -   This should create a new folder named _conFusion_ within your _Angular_ folder and create the Angular application in that folder.
     
 -   Move to the conFusion folder and type the following at the prompt:
--   ![[ATTACHMENTS/Pasted image 20210915155701.png]]
+-   ![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915155701.png]]
 -   Just like this baby
--   ![[ATTACHMENTS/Pasted image 20210915163954.png]]
+-   ![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915163954.png]]
 -   This will compile the project and then open a tab in your default browser at the address [http://localhost:4200](http://localhost:4200/).
     
 -   You can initialize your project to be a Git repository by typing the following commands at the prompt:
--   ![[ATTACHMENTS/Pasted image 20210915163747.png]]
+-   ![[../../3RESOURCES/PUBLIC ASSETS/Pasted image 20210915163747.png]]
 -   **Note**: You will notice that this will reinitialize the Git repository and you will see the first commit with the message "initial commit" already in the repository.
 
 -   Thereafter you can set up an online Git repository and synchronize your project to the online repository. Make sure that the online Git repository is a **_private_** repository.

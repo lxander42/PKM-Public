@@ -7,9 +7,9 @@ tags:
 ## By Ticker
 ### VSME
 #### 5 min
-![Pasted image 20231106111247](../../ATTACHMENTS/Pasted%20image%2020231106111247.png)
+![Pasted image 20231106111247](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106111247.png)
 #### 1 min
-![Pasted image 20231106111304](../../ATTACHMENTS/Pasted%20image%2020231106111304.png)
+![Pasted image 20231106111304](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106111304.png)
 
 ## Notes
 I need to cut stop losses at the bottom of the previous low, or just below it. 

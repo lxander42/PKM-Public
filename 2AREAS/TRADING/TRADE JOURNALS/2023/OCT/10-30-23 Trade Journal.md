@@ -7,9 +7,9 @@ tags:
 ## By Ticker
 ### WE
 #### 5 min
-![Pasted image 20231106120108](../../ATTACHMENTS/Pasted%20image%2020231106120108.png)
+![Pasted image 20231106120108](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106120108.png)
 #### 1 min
-![Pasted image 20231106120115](../../ATTACHMENTS/Pasted%20image%2020231106120115.png)
+![Pasted image 20231106120115](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106120115.png)
 
 ## Notes
 - do not trade reversals

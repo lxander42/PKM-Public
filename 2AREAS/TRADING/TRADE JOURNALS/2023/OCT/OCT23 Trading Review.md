@@ -23,10 +23,10 @@ tags:
 |Average position MFE:|$799.02|Average position MAE:|$-924.76|
 ## How I did this month 
 Mostly poorly, ended down $16,140.69
-![Pasted image 20231106074431](../../ATTACHMENTS/Pasted%20image%2020231106074431.png)
+![Pasted image 20231106074431](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106074431.png)
 
 ### P&L by Trade Duration
-![Pasted image 20231106075250](../../ATTACHMENTS/Pasted%20image%2020231106075250.png)
+![Pasted image 20231106075250](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106075250.png)
 As you can see, most of my successful trades are within the first 10 minutes, I should cut off trades after 10 minutes if they are not successful. 
 
 ## Daily Trading Journals
@@ -75,5 +75,5 @@ DO NOT:
 - Buy micro pullbacks on the 1 min chart
 - Trade after large doge or topping tail
 - Trade on a >50% pullback from previous run up or if it dips below VWAP 
-- ![Pasted image 20231106123232](../../ATTACHMENTS/Pasted%20image%2020231106123232.png)
+- ![Pasted image 20231106123232](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106123232.png)
 

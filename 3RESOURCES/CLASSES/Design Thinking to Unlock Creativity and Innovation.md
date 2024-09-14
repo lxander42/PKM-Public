@@ -35,11 +35,11 @@ organization factors: what's desirable for an organization
 tech factors: is a design feasible 
 
 Design curve 
-![Pasted image 20210921110552](ATTACHMENTS/Pasted%20image%2020210921110552.png)
+![Pasted image 20210921110552](../PUBLIC%20ASSETS/Pasted%20image%2020210921110552.png)
 
 During a design process, we vary from divergent to convergent thinking: 
 
-![Pasted image 20210921110809](ATTACHMENTS/Pasted%20image%2020210921110809.png)
+![Pasted image 20210921110809](../PUBLIC%20ASSETS/Pasted%20image%2020210921110809.png)
 
 Advantages of design thinking: 
 - better for people 
@@ -53,7 +53,7 @@ Designers build to think
 
 A conceptual framework for innovation: 
 
-![Pasted image 20210921112801](ATTACHMENTS/Pasted%20image%2020210921112801.png)
+![Pasted image 20210921112801](../PUBLIC%20ASSETS/Pasted%20image%2020210921112801.png)
 
 When to use design thinking: 
  - when people are involved 
@@ -73,7 +73,7 @@ When to use design thinking:
 ##### Inspiration 
 Look at extreme cases 
 
-![Pasted image 20210921121321](ATTACHMENTS/Pasted%20image%2020210921121321.png)
+![Pasted image 20210921121321](../PUBLIC%20ASSETS/Pasted%20image%2020210921121321.png)
 
 - Look in and Look out 
 	- look in and outside of the company 
@@ -189,4 +189,4 @@ Billy Boberson (CTO) had this to say: "i have become friends with this AI, with 
 The impacts of this are far-reaching and will eventually be implemented company-wide, not just in meetings. Imagine having a virtual assistant to schedule meetings, take notes, perform research, or look up all relevant info for a project for you. The possibilities are endless!
 
 #### Storytelling: 
-![Pasted image 20210922124256](ATTACHMENTS/Pasted%20image%2020210922124256.png)
+![Pasted image 20210922124256](../PUBLIC%20ASSETS/Pasted%20image%2020210922124256.png)

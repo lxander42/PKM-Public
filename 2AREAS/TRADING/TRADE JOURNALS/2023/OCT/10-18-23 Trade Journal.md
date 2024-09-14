@@ -7,9 +7,9 @@ tags:
 ## By Ticker
 ### ICU
 #### 5 min
-![Pasted image 20231106114210](../../ATTACHMENTS/Pasted%20image%2020231106114210.png)
+![Pasted image 20231106114210](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106114210.png)
 #### 1 min
-![Pasted image 20231106114217](../../ATTACHMENTS/Pasted%20image%2020231106114217.png)
+![Pasted image 20231106114217](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106114217.png)
 
 ## Notes
 A few things: 

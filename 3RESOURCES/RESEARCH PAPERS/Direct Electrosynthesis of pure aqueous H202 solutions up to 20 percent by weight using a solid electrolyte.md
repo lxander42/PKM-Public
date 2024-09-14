@@ -12,4 +12,4 @@ Synthesizing H202 from just Air, water, and electricity
 
 # Paper
 
-![[Direct Electrosynthesis of pure aqueous H202 solutions up to 20 percent by weight using a solid electrolyte.pdf]]
+![[../../../3RESOURCES/ASSETS/Direct Electrosynthesis of pure aqueous H202 solutions up to 20 percent by weight using a solid electrolyte.pdf]]

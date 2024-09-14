@@ -20,10 +20,10 @@ Notes on cable routing in NX.
 	- double arrow is where your wire connects, the other arrow is where it mates to the assembly. 
 - Go into the electrical component navigator and assign the part to the part you just placed. 
 	- Once you assign it there will be a checkmark next to it.
-	- ![Pasted image 20240216134009](ATTACHMENTS/Pasted%20image%2020240216134009.png)
+	- ![Pasted image 20240216134009](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240216134009.png)
 - Do this for any remaining connectors
 - Add a spline on the two connector ends that are the furthes apart
-	- ![Pasted image 20240216134435](ATTACHMENTS/Pasted%20image%2020240216134435.png)
+	- ![Pasted image 20240216134435](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240216134435.png)
 - To split the cable select the spline and subdivide segments, adjust the selector for where you want to split the segments. 
 - Make sure everything is in the routing reference set on the assembly. 
 - Right click and auto do auto routing on the component level. 

@@ -7,9 +7,9 @@ tags:
 ## By Ticker
 ### YGMZ
 #### 5 min
-![Pasted image 20231106113508](../../ATTACHMENTS/Pasted%20image%2020231106113508.png)
+![Pasted image 20231106113508](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106113508.png)
 #### 1 min
-![Pasted image 20231106113517](../../ATTACHMENTS/Pasted%20image%2020231106113517.png)
+![Pasted image 20231106113517](../../../../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020231106113517.png)
 
 ## Notes
 - You missed the move here, you were trading at the top with a topping tail. Need to only trade bull flags. 
