@@ -1,13 +1,11 @@
 ---
 aliases: []
 created: 2024-08-25
-modified: 2024-09-08
+modified: 2024-09-14
 tags: []
 ---
 
 # Description
-
- 
 
 My personal knowledge management ([PKM](2AREAS/PERSONAL%20KNOWLEDGE%20MANAGEMENT/Personal%20Knowledge%20Management.md)) system. Meant to hold thoughts, ideas, systems, frameworks, and creative endeavors.
 
@@ -21,6 +19,7 @@ I am a Mechanical Engineer in the semiconductor industry with a passion for lear
 
 - [Resume](3RESOURCES/EMPLOYMENT/Logan%20Alexander%20Resume%2002022024.pdf)
 - [Portfolio](3RESOURCES/EMPLOYMENT/Logan%20Alexander%20Portfolio%2002022024.pdf)
+- [Public Projects](1PROJECTS/Public%20Projects.md)
 - [Solved Problems in Physics](3RESOURCES/SOLVED%20PROBLEMS%20IN%20PHYSICS/Solved%20Problems%20in%20Physics.md)
 - [System Info](2AREAS/PERSONAL%20KNOWLEDGE%20MANAGEMENT/System%20Info.md)
 
