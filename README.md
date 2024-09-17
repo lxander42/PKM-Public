@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2024-08-25
-modified: 2024-09-14
+modified: 2024-09-17
 tags: []
 ---
 
@@ -30,16 +30,19 @@ I am a Mechanical Engineer in the semiconductor industry with a passion for lear
 - [Coding](2AREAS/CODING/Coding.md)
 - [Music](2AREAS/MUSIC/Music.md)
 - [Mechanical Engineering](2AREAS/MECHANICAL%20ENGINEERING/Mechanical%20Engineering.md)
-- [Personal Projects](../1PROJECTS/Projects.md)
-- [[Running]]
+- [Running](3RESOURCES/RUNNING/Running.md)
 - [Sailing](2AREAS/SAILING/Sailing.md)
 - [Songwriting](2AREAS/MUSIC/Songwriting.md)
 
 > *A jack of all trades is a master of none, but often times better than a master of one.* 
 > - [William Shakespeare](5INBOX/William%20Shakespeare.md)
 
-# Contact
+## Contact
 
 please feel free to reach out at loganpalexander@gmail.com. 
 
 LinkedIn: www.linkedin.com/in/logan-alexander
+
+## Backlinks
+
+* [SECRETS](../README.md)

@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2023-12-14
-modified: 2024-09-06
+modified: 2024-09-17
 tags: [MOC]
 ---
 
@@ -48,3 +48,10 @@ tags: [MOC]
 - https://tab-maker.com/en/app
 - [Songwriting Template](../../../3RESOURCES/TEMPLATES/Songwriting%20Template.md)
 - [Favorite Songs](Favorite%20Songs.md)
+
+## Backlinks
+
+* [Cherry Kindness](Cherry%20Kindness.md)
+* [Into Images](Into%20Images.md)
+* [Music](Music.md)
+* [README](../../README.md)

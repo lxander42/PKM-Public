@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2023-10-27
-modified: 2024-08-30
+modified: 2024-09-17
 tags: [MOC, seed]
 ---
 
@@ -41,3 +41,7 @@ Drop relevant notes here as you make them
 - [Suppliers list](Suppliers%20list.md)
 - [CAD Modeling](../../../2AREAS/CAD%20MODELING/CAD%20Modeling.md)
 - [Part Numbering Scheme](../../../3RESOURCES/BKM/Part%20Numbering%20Scheme.md)
+
+## Backlinks
+
+* [README](../../README.md)
