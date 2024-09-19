@@ -8,8 +8,8 @@ tags:
 This will hold everything to do with gas line design 
 
 ## Resources
-- [[Swagelok VCR Metal Gasket Face Seal Fittings|swagelok VCR fitting catalog]]
-- [[Swagelok Weld Fitting Catalog]]
+- [[../../../3RESOURCES/SUPPLIERS/Swagelok VCR Metal Gasket Face Seal Fittings|swagelok VCR fitting catalog]]
+- [[../../../3RESOURCES/SUPPLIERS/Swagelok Weld Fitting Catalog]]
 - [[FDS-41415 - Large Diameter Weldments|guidelines for large diameter weldments]]
 
 ## Part numbers
