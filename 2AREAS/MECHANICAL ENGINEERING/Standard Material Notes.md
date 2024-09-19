@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2024-08-26
-modified: 2024-08-30
+modified: 2024-09-19
 tags: [standard]
 ---
 
@@ -67,4 +67,10 @@ Suppliers of general aluminum stock are Kaiser, Alcoa, and Constellium.
 
 # Further Reference
 
-- [[../../../3RESOURCES/STANDARDS/ASTM Standards]]
+- [ASTM Standards](ASTM%20Standards.md)
+
+# Backlinks
+
+* [Generic Design and Drawing Checklist](Generic%20Design%20and%20Drawing%20Checklist.md)
+* [Mechanical Engineering](Mechanical%20Engineering.md)
+* [Small Tube Weldment Design Guidelines](Small%20Tube%20Weldment%20Design%20Guidelines.md)
