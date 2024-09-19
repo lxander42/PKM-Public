@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2023-10-27
-modified: 2024-09-17
+modified: 2024-09-19
 tags: [MOC, seed]
 ---
 
@@ -27,6 +27,7 @@ A [Map of Content (MOC)](../../3RESOURCES/DEFINITIONS/Maps%20of%20Content%20(MOC
 - [Standard Finish Notes](Standard%20Finish%20Notes.md)
 - [Standard Material Notes](Standard%20Material%20Notes.md)
 - [Standard_Drill_Chart816RevisionB](../../../3RESOURCES/ASSETS/Standard_Drill_Chart816RevisionB.pdf)
+- [ASTM Standards](ASTM%20Standards.md)
 
 # Drop Zone
 
