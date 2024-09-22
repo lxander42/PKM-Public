@@ -1,13 +1,13 @@
 ---
 aliases: []
 created: 2024-09-14
-modified: 2024-09-14
+modified: 2024-09-21
 tags: [project]
 ---
 
 # State of Design
 
-![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240914211925.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240921221201.png)
 
 ![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240914212151.png)
 
