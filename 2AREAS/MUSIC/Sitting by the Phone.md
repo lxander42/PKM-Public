@@ -18,45 +18,45 @@ tags: [song]
 
 Gbmaj7 
 
-![](../../../3RESOURCES/ASSETS/Gbmaj79thfret.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Gbmaj79thfret.png)
 
 Fm7
 
-![](../../../3RESOURCES/ASSETS/Fm78thfret.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Fm78thfret.png)
 
 Ebmin7 
 
-![](../../../3RESOURCES/ASSETS/Ebmin76thfret.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Ebmin76thfret.png)
 
 Dbmaj7 
 
-![](../../../3RESOURCES/ASSETS/Dbmaj74thfret.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Dbmaj74thfret.png)
 
 Gb
 
-![](../../../3RESOURCES/ASSETS/Gb2ndfret.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Gb2ndfret.png)
 
 ## Chorus 1
 
 Gbmaj7
 
-![](../../../3RESOURCES/ASSETS/Gbmaj79thfret.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Gbmaj79thfret.png)
 
 Ebmin7
 
-![](../../../3RESOURCES/ASSETS/Ebmin76thfret.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Ebmin76thfret.png)
 
 Ab
 
-![](../../../3RESOURCES/ASSETS/Ab4thfret.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Ab4thfret.png)
 
 D
 
-![](../../../3RESOURCES/ASSETS/D10thfret.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/D10thfret.png)
 
 Bbm
 
-![](../../../3RESOURCES/ASSETS/Bbm6thfret.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Bbm6thfret.png)
 
 # Lead
 

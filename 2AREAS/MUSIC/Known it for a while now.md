@@ -18,21 +18,21 @@ tags: [song]
 
 Gmaj7 10th fret
 
-![](../../../3RESOURCES/ASSETS/Gmaj710thfret.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Gmaj710thfret.png)
 
 Dmaj7 5th fret
 
-![](../../../3RESOURCES/ASSETS/Dmaj75thfret.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Dmaj75thfret.png)
 
 ## Verse
 
 G 3rd Fret
 
-![](../../../3RESOURCES/ASSETS/G3rdfret.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/G3rdfret.png)
 
 D 10th fret
 
-![D10thfret](../../../3RESOURCES/ASSETS/D10thfret.png)
+![D10thfret](../../3RESOURCES/PUBLIC%20ASSETS/D10thfret.png)
 
 # Lead
 
