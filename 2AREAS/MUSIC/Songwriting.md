@@ -40,7 +40,7 @@ tags: [MOC]
 ## *Phase 4: Refinement*
 
 1. Add vocal effects and backing vocals which complement the instruments
-2. Mix and master according to [Vocal mixing guide](../../PKM-Public/2AREAS/MUSIC/Vocal%20mixing%20guide.md)
+2. Mix and master according to [Vocal mixing guide](Vocal%20mixing%20guide.md)
 
 # Links
 
