@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2023-12-14
-modified: 2024-09-25
+modified: 2024-09-28
 tags: [MOC]
 ---
 
@@ -64,6 +64,8 @@ tags: [MOC]
 - [Known it for a while now](Known%20it%20for%20a%20while%20now.md)
 - [Let's Fade](Let's%20Fade.md)
 - [Sitting by the Phone](Sitting%20by%20the%20Phone.md)
+- [Bouncy Green Hills](Bouncy%20Green%20Hills.md)
+- [The Celebrated Club Night](The%20Celebrated%20Club%20Night.md)
 
 ## Starter Songs
 
