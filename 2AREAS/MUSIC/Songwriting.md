@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2023-12-14
-modified: 2024-09-17
+modified: 2024-09-28
 tags: [MOC]
 ---
 
@@ -35,11 +35,12 @@ tags: [MOC]
 3. Add new song parts if you feel it is necessary, play around with using [interesting musical concepts](https://www.youtube.com/watch?v=GXxX013s1Vk) to season your idea. 
 4. Develop and hone your lyrics and write them down (See songwriting template)
 5. Record a clean take without effects and keep rerecording parts until you feel it is perfect
+6. Move to "Needs Refinement" folder
 
 ## *Phase 4: Refinement*
 
 1. Add vocal effects and backing vocals which complement the instruments
-2. Mix and master according to [Vocal mixing guide](../../PKM-Public/2AREAS/MUSIC/Vocal%20mixing%20guide.md)
+2. Mix and master according to [Vocal mixing guide](Vocal%20mixing%20guide.md)
 
 # Links
 
@@ -51,7 +52,21 @@ tags: [MOC]
 
 ## Backlinks
 
-* [Cherry Kindness](Cherry%20Kindness.md)
-* [Into Images](Into%20Images.md)
 * [Music](Music.md)
 * [README](../../README.md)
+* [Daily Chords](../../../5INBOX/Daily%20Chords.md|chords)
+* [Drum Pattern Standard Structure](Drum%20Pattern%20Standard%20Structure.md)
+
+## Needs Vocals
+
+- [Night Smiles](Night%20Smiles.md)
+- [Cherry Kindness](Cherry%20Kindness.md)
+- [Known it for a while now](Known%20it%20for%20a%20while%20now.md)
+- [Let's Fade](Let's%20Fade.md)
+- [Sitting by the Phone](Sitting%20by%20the%20Phone.md)
+- [Bouncy Green Hills](Bouncy%20Green%20Hills.md)
+- [The Celebrated Club Night](The%20Celebrated%20Club%20Night.md)
+
+## Starter Songs
+
+- [Into Images](Into%20Images.md)
