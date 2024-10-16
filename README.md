@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2024-08-25
-modified: 2024-09-17
+modified: 2024-10-10
 tags: []
 ---
 
@@ -17,7 +17,7 @@ I am a Mechanical Engineer in the semiconductor industry with a passion for lear
 
 ## Info
 
-- [Resume](3RESOURCES/EMPLOYMENT/Logan%20Alexander%20Resume%2002022024.pdf)
+- [Resume](3RESOURCES/EMPLOYMENT/Logan%20Alexander%20Resume%2010102024.pdf)
 - [Portfolio](3RESOURCES/EMPLOYMENT/Logan%20Alexander%20Portfolio%2002022024.pdf)
 - [Public Projects](1PROJECTS/Public%20Projects.md)
 - [Solved Problems in Physics](3RESOURCES/SOLVED%20PROBLEMS%20IN%20PHYSICS/Solved%20Problems%20in%20Physics.md)

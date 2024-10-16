@@ -7,9 +7,7 @@ tags: [project]
 
 # State of Design
 
-![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240921221201.png)
-
-![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020240914212151.png)
+![](../../3RESOURCES/PUBLIC%20ASSETS/Pasted%20image%2020241007191651.png)
 
 # Scope
 
@@ -42,4 +40,4 @@ Design and build a Mounting arm from only 3d printed and off the shelf parts for
 
 # Next
 
-- Finish wrist assembly with mounting to linkage arm
+- Design Z-axis counterweight system
