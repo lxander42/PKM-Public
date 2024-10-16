@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2024-09-14
-modified: 2024-09-21
+modified: 2024-10-10
 tags: [project]
 ---
 
@@ -38,6 +38,7 @@ Design and build a Mounting arm from only 3d printed and off the shelf parts for
 - [(6) How to Mount TV on Plaster Lath Wall? Magnetic Stud Finder for Plaster Walls - YouTube](https://www.youtube.com/watch?v=AJnNVaLSr3A&t=3s)
 - [mounting brackets | McMaster-Carr](https://www.mcmaster.com/products/mounting-brackets/bolt-together-framing-and-fittings~/)
 - [Wrist Clamp Static Load Testing](Wrist%20Clamp%20Static%20Load%20Testing.md)
+- [I Made This Weird Thing – Let Me Show You (youtube.com)](https://www.youtube.com/watch?v=0mcXKB3jZ9o)
 
 # Next
 
