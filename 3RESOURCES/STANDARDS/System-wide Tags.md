@@ -56,7 +56,7 @@ Any tag which is in the body of a note should be accompanied with the following 
 - #system-info - information that is useful to run my [PKM](../../../5INBOX/New/PKM.md) system
 - #tactic - a tactic to be used when you are in need of a fix for something in your life. (i.e. feeling stressed, [For when you feel overwhelmed](../../../3RESOURCES/TACTICS/For%20when%20you%20feel%20overwhelmed.md), low energy, etc..)
 - #tarot - a tarot card
-- #task-notes - notes on a specific task, to be named the exact same as it is in [Todoist](Todoist)
+- #task-notes - notes on a specific task, to be named the exact same as it is in [Todoist](../../../2AREAS/PRODUCTIVITY/Todoist.md)
 - #template - a document used as a template for creating other documents, see [Daily Note Template](../../../3RESOURCES/TEMPLATES/Daily%20Note%20Template.md) for an axample
 - #therapy-notes - notes I take during or about therapy sessions
 - #thought - a thought i had, maybe I will reference it later, maybe not. 
