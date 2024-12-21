@@ -6,13 +6,13 @@ tags:
 ---
 #tree  (This note is fully fleshed out but not completely set in stone, see [System-wide Tags](../../3RESOURCES/STANDARDS/System-wide%20Tags.md))
 ## Description 
-My productivity system was created when I was buried with work and needed a way out to relieve stress and make sure nothing was falling through the cracks. There needed to be clear decisions as to why I was doing certain things at certain times and a framework which helped me outline all this. This systems was created within the framework of my [Personal Knowledge Management](../PERSONAL%20KNOWLEDGE%20MANAGEMENT/Personal%20Knowledge%20Management.md) system. 
+My productivity system was created when I was buried with work and needed to relieve stress and ensure nothing fell through the cracks. There needed to be clear decisions as to why I was doing certain things at certain times and a framework which helped me outline this process. This system was created within the framework of my [Personal Knowledge Management](../PERSONAL%20KNOWLEDGE%20MANAGEMENT/Personal%20Knowledge%20Management.md) system. 
 
 ## The Mission 
 The mission, or goal, of this system is to allow its user to have their average perfect day as often as possible. This means having a day with minimal stress, maximum productivity, not forgetting about anything, and being able to easily make decisions on important things in one's life. 
 
 ## The scope of the system 
-People generally have an amorphous idea of what productivity is, I have distilled it down into these tools for myself: 
+People generally have an amorphous idea of what constitutes productivity - I have distilled it down into these tools for myself: 
 - A todo list: a place to capture anything and everything you are going to get done. 
 - A calendar: what you are going to do at certain times.
 - A file organization structure: where references, resources, and files can be found. 
