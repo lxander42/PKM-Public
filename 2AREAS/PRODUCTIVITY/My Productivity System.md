@@ -13,9 +13,9 @@ The mission, or goal, of this system is to allow its user to have their average 
 
 ## The scope of the system 
 People generally have an amorphous idea of what constitutes productivity - I have distilled it down into these tools for myself: 
-- A todo list: a place to capture anything and everything you are going to get done. 
-- A calendar: what you are going to do at certain times.
-- A file organization structure: where references, resources, and files can be found. 
+- A todo list: a place to capture anything and everything you plan to get done. 
+- A calendar: what you are will do at certain times.
+- A file organization structure: where references, resources, and files are located. 
 - A notes app: to hold all of your written notes on projects and other things. 
 - A bookmark management system: to hold all the web links you access regularly. 
 - An email client: self explanatory. 
@@ -27,7 +27,7 @@ This framework defines how these work in conjunction with one another and the ro
 - File organization: Onedrive
 - A notes app: [Obsidian - Sharpen your thinking](https://obsidian.md/)
 	- A plaintext notes app
-- Web linkes: I use a browser extension called BrainTool - [Go beyond Bookmarks with BrainTool, the online Topic Manager | BrainTool - Beyond Bookmarks](https://braintool.org/index.html)
+- Web links: I use a browser extension called BrainTool - [Go beyond Bookmarks with BrainTool, the online Topic Manager | BrainTool - Beyond Bookmarks](https://braintool.org/index.html)
 - Email client: I use outlook and gmail for personal use. 
 
 **Feel free to choose the apps that work best for you**, this is meant to be flexible. Microsoft has enterprise solutions for all of the apps listed previously. 
