@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2024-08-25
-modified: 2024-10-10
+modified: 2025-01-06
 tags: []
 ---
 
@@ -17,7 +17,7 @@ I am a Mechanical Engineer in the semiconductor industry with a passion for lear
 
 ## Info
 
-- [Resume](3RESOURCES/EMPLOYMENT/Logan%20Alexander%20Resume%2010102024.pdf)
+- [Resume](3RESOURCES/EMPLOYMENT/Logan%20Alexander%20Resume%20010325.pdf)
 - [Portfolio](3RESOURCES/EMPLOYMENT/Logan%20Alexander%20Portfolio%2002022024.pdf)
 - [Public Projects](1PROJECTS/Public%20Projects.md)
 - [Solved Problems in Physics](3RESOURCES/SOLVED%20PROBLEMS%20IN%20PHYSICS/Solved%20Problems%20in%20Physics.md)
@@ -33,6 +33,7 @@ I am a Mechanical Engineer in the semiconductor industry with a passion for lear
 - [Running](3RESOURCES/RUNNING/Running.md)
 - [Sailing](2AREAS/SAILING/Sailing.md)
 - [Songwriting](2AREAS/MUSIC/Songwriting.md)
+- [Productivity](2AREAS/PRODUCTIVITY/My%20Productivity%20System.md)
 
 > *A jack of all trades is a master of none, but often times better than a master of one.* 
 > - [William Shakespeare](5INBOX/William%20Shakespeare.md)
@@ -41,8 +42,7 @@ I am a Mechanical Engineer in the semiconductor industry with a passion for lear
 
 please feel free to reach out at loganpalexander@gmail.com. 
 
-LinkedIn: www.linkedin.com/in/logan-alexander
+## Links
 
-## Backlinks
-
-* [SECRETS](../README.md)
+- [LinkedIn](www.linkedin.com/in/logan-alexander) 
+- [Portfolio website (in-work)](https://mechanical-portfolio.vercel.app/about)
