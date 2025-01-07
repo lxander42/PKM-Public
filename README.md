@@ -44,5 +44,5 @@ please feel free to reach out at loganpalexander@gmail.com.
 
 ## Links
 
-- [LinkedIn](www.linkedin.com/in/logan-alexander) 
+- [LinkedIn](https://www.linkedin.com/in/logan-alexander) 
 - [Portfolio website (in-work)](https://mechanical-portfolio.vercel.app/about)
