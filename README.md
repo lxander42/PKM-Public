@@ -1,11 +1,13 @@
 ---
 aliases: []
 created: 2024-08-25
-modified: 2025-01-06
+modified: 2025-01-11
 tags: []
 ---
 
 # Description
+
+**Note: This has been deprecated as of 1/11/25 all info, is current only to that date, to see latest PKM system, please visit [my personal website](https://mechanical-portfolio.vercel.app/wiki)**
 
 My personal knowledge management ([PKM](2AREAS/PERSONAL%20KNOWLEDGE%20MANAGEMENT/Personal%20Knowledge%20Management.md)) system. Meant to hold thoughts, ideas, systems, frameworks, and creative endeavors.
 
